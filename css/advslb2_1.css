@@ -1,0 +1,58 @@
+﻿/*!
+ * $Author: zikkeung $
+ * */
+
+/** reset **/
+
+
+img{-ms-interpolation-mode:bicubic}
+img,iframe{vertical-align:middle}
+
+ol,ul,menu{list-style:none outside none}
+
+
+.focus-slide .js_switch_nav{margin:0;padding:0;position:absolute;bottom:12px;right:15px; z-index: 30;}
+.focus-slide .js_switch_nav li{margin:0;padding:0;float:left;width:20px;height:16px;line-height:16px;cursor:pointer;background:url(../images/focus-slide-nav_1.png) no-repeat -23px -2px; text-indent:-99em; overflow: hidden;}
+.focus-slide .js_switch_nav .js_active{margin:0;padding:0;background-position: -3px -2px;}
+
+.focus-slide .js_switch_ct h3 {margin:0;padding:0; height: 40px; line-height: 40px; position: absolute; width: 100%; bottom:0; left:0;  filter:progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#B2434343', endColorstr='#B2434343');background:rgba(0,0,0,0.5); background: transparent;background: rgba(0,0,0,0.5); }
+.focus-slide .js_switch_ct h3 a{ display: block; padding: 0 10px; width:380px; overflow: hidden; font-size: 14px; font-weight: 700; color: #fff;text-decoration:none; height: 40px; line-height: 40px;}
+.focus-slide .js_switch_ct h3 a:hover { text-decoration:underline; }
+
+
+.focus-slide .prev{
+position: absolute;
+width: 45px;
+height: 45px;
+z-index: 89;
+filter: alpha(opacity=30);
+-moz-opacity: 0.5;
+opacity: .5;
+top: 130px;
+overflow: hidden;
+line-height: 10;
+background: url(../images/png24.png) no-repeat left top;
+left: 10px;
+}
+
+.focus-slide .next{
+position: absolute;
+width: 45px;
+height: 45px;
+z-index: 89;
+filter: alpha(opacity=30);
+-moz-opacity: 0.5;
+opacity: .5;
+top: 130px;
+overflow: hidden;
+line-height: 10;
+background: url(../images/png24.png) no-repeat left -45px;
+right: 10px;
+}
+.focus-slide .prev:hover,.focus-slide .next:hover{
+filter:alpha(opacity=8);	
+-moz-opacity: 0.8;	
+opacity: 0.8;
+}
+
+

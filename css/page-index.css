@@ -1,0 +1,3185 @@
+﻿@charset "utf-8";
+#box_root {
+ width:100%;
+ float:none
+}
+#box_header {
+ width:100%
+}
+#box_footer {
+ background-color:#2a3038;
+ width:100%
+}
+#box_main {
+ margin-left:auto;
+ margin-right:auto
+}
+#box_left {
+ width:100%
+}
+#box_header_sub1 {
+ margin:0 auto;
+ width:1200px;
+ float:none
+}
+#box_header_sub1_sub1 {
+ width:300px;
+ float:left
+}
+#box_header_sub1_sub2 {
+ width:720px;
+ float:left;
+ margin-left:150px
+}
+#box_header_sub1_sub3 {
+ width:30px;
+ float:left
+}
+#box_footer_sub1 {
+ width:100%
+}
+#box_footer_sub2 {
+ width:100%
+}
+#box_footer_sub1_sub1 {
+ margin:0 auto;
+ width:1200px;
+ float:none
+}
+#box_footer_sub2_sub1 {
+ margin:0 auto;
+ width:1200px;
+ float:none
+}
+#box_footer_sub1_sub1_sub1 {
+ width:50%;
+ float:left
+}
+#box_footer_sub1_sub1_sub2 {
+ width:50%;
+ float:left
+}
+#box_left_sub1 {
+ width:100%
+}
+#box_left_sub2 {
+ background-color:#104b93;
+ width:100%
+}
+#box_left_sub3 {
+ width:100%
+}
+#box_left_sub4 {
+ background-color:#123456;
+ width:100%
+}
+#box_left_sub5 {
+ width:100%;
+ background:url(../images/crossword.png)
+}
+#box_left_sub6 {
+ width:100%
+}
+#box_left_sub7 {
+ background-color:#e5f1ff;
+ width:100%
+}
+#box_left_sub2_sub1 {
+ margin:0 auto;
+ width:1200px;
+ float:none
+}
+#box_left_sub3_sub1 {
+ margin:0 auto;
+ width:1200px;
+ float:none
+}
+#box_left_sub3_sub1_sub1 {
+ width:100%
+}
+#box_left_sub3_sub1_sub2 {
+ width:100%
+}
+#box_left_sub3_sub1_sub2_sub1 {
+ width:50%;
+ float:left
+}
+#box_left_sub3_sub1_sub2_sub2 {
+ width:50%;
+ float:left
+}
+#box_left_sub4_sub1 {
+ margin:0 auto;
+ width:1200px;
+ float:none
+}
+#box_left_sub4_sub1_sub1 {
+ width:100%
+}
+#box_left_sub4_sub1_sub2 {
+ width:100%
+}
+#box_left_sub5_sub1 {
+ margin:0 auto;
+ width:1200px;
+ float:none
+}
+#box_left_sub5_sub1_sub1 {
+ width:100%;
+ float:none
+}
+#box_left_sub5_sub1_sub2 {
+ width:100%
+}
+#box_left_sub6_sub1 {
+ margin:0 auto;
+ width:1200px;
+ float:none
+}
+#box_left_sub6_sub1_sub1 {
+ width:100%
+}
+#box_left_sub6_sub1_sub2 {
+ width:100%
+}
+#box_left_sub7_sub1 {
+ margin:0 auto;
+ width:1200px;
+ float:none
+}
+#my_shouye_zhiyelingyu_neirong {
+ width:1200px;
+ overflow:hidden
+}
+#my_shouye_zhiyelingyu_neirong .sub1 UL {
+ padding-bottom:0;
+ list-style-type:none;
+ padding-left:0;
+ padding-right:0;
+ list-style-image:none;
+ padding-top:0
+}
+#my_shouye_zhiyelingyu_neirong .sub1 UL LI {
+ padding-bottom:5px;
+ list-style-type:none;
+ float:left;
+ list-style-image:none;
+ margin-right:5px;
+ padding-top:5px
+}
+#my_shouye_zhiyelingyu_neirong .sub1 {
+ width:1200px;
+ float:left;
+ overflow:hidden
+}
+#my_shouye_zhiyelingyu_neirong .left {
+ margin-top:5px;
+ width:30px;
+ background:url("../images/left.png")/*tpa=http://www.tgindt.com/images/img/left.png*/;
+ float:left;
+ height:140px;
+ cursor:pointer
+}
+#my_shouye_zhiyelingyu_neirong .right {
+ margin-top:5px;
+ width:30px;
+ background:url("../images/right.png")/*tpa=http://www.tgindt.com/images/img/right.png*/;
+ float:right;
+ height:140px;
+ cursor:pointer
+}
+.FrontSpecifies_show01-d3_c1 {
+ width:100%;
+ margin:0 auto
+}
+.FrontSpecifies_show01-d3_c1 .membernavlist {
+ width:100%;
+ background:#fff
+}
+.FrontSpecifies_show01-d3_c1 .membernavlist li {
+ height:25px
+}
+.FrontSpecifies_show01-d3_c1 .membernavlist li a {
+ float:left;
+ width:100%;
+ height:24px;
+ line-height:24px;
+ background:#ebf7fe;
+ text-decoration:none
+}
+.FrontSpecifies_show01-d3_c1 .membernavlist li a:hover {
+ background:#abe7fa;
+ border:1px solid ##7ecef4
+}
+.FrontSpecifies_show01-d3_c1 .htmledit {
+ font-family:Times New Roman;
+ font-size:medium;
+ font-style:normal;
+ line-height:normal;
+ font-weight:normal;
+ font-variant:normal;
+ font-stretch:normal;
+ text-transform:none;
+ text-indent:0;
+ text-align:left;
+ vertical-align:baseline;
+ letter-spacing:normal;
+ word-spacing:normal;
+ color:#000;
+ text-decoration:none;
+ letter-spacing:normal;
+ word-spacing:normal;
+ white-space:normal;
+ word-break:normal;
+ word-wrap:normal;
+ border:medium none;
+ background:transparent none repeat scroll 0 0;
+ list-style:disc outside none;
+ float:none;
+ width:auto;
+ height:auto;
+ clear:none;
+ z-index:auto;
+ text-justify:auto;
+ overflow:visible;
+ display:inline;
+ visibility:inherit;
+ margin:auto;
+ border-collapse:separate
+}
+.FrontSpecifies_show01-d3_c1 .htmledit ul {
+ background:transparent none repeat scroll 0 0;
+ width:auto;
+ display:inline-block;
+ height:auto;
+ float:none;
+ padding-left:25px
+}
+.FrontSpecifies_show01-d3_c1 .htmledit ul li {
+ background:transparent none repeat scroll 0 0;
+ width:auto;
+ float:none;
+ height:auto;
+ list-style:disc outside none;
+ text-align:left;
+ line-height:normal
+}
+.FrontSpecifies_show01-d3_c1 .htmledit ol {
+ background:transparent none repeat scroll 0 0;
+ width:auto;
+ display:inline-block;
+ height:auto;
+ float:none;
+ padding-left:25px
+}
+.FrontSpecifies_show01-d3_c1 .htmledit ol li {
+ background:transparent none repeat scroll 0 0;
+ width:auto;
+ float:none;
+ height:auto;
+ list-style:decimal outside none;
+ text-align:left;
+ line-height:normal
+}
+.FrontSpecifies_show01-d3_c1 .htmledit p {
+ line-height:normal
+}
+.FrontSpecifies_show01-d3_c1 .htmledit h1 {
+ font-size:2em;
+ margin:.67em 0;
+ font-weight:bolder
+}
+.FrontSpecifies_show01-d3_c1 .htmledit h2 {
+ font-size:1.5em;
+ margin:.83em 0;
+ font-weight:bolder
+}
+.FrontSpecifies_show01-d3_c1 .htmledit h3 {
+ font-size:1.17em;
+ margin:1em 0;
+ font-weight:bolder
+}
+.FrontSpecifies_show01-d3_c1 .htmledit h4 {
+ font-size:1em;
+ margin:1.33em 0;
+ font-weight:bolder
+}
+.FrontSpecifies_show01-d3_c1 .htmledit h5 {
+ font-size:.83em;
+ line-height:1.17em;
+ margin:1.67em 0;
+ font-weight:bolder
+}
+.FrontSpecifies_show01-d3_c1 .htmledit h6 {
+ font-size:.67em;
+ margin:2.33em 0;
+ font-weight:bolder
+}
+#elem-FrontSpecifies_show01-1484107152096 {
+ height:90px
+}
+#elem-FrontSpecifies_show01-1484112910560 p {
+ width:250px;
+ margin-left:10px;
+ margin-right:40px;
+ float:left;
+ padding-top:30px;
+ padding-bottom:30px;
+ text-align:left;
+ font-family:'microsoft yahei',Verdana, Arial;
+ font-size:13px;
+ color:#444;
+ line-height:27px;
+ font-weight:bold
+}
+#elem-FrontSpecifies_show01-1484112910560 {
+ overflow:hidden
+}
+#elem-FrontSpecifies_show01-1484112910560 img {
+ float:left;
+ margin-right:30px
+}
+#elem-FrontSpecifies_show01-1484112910560 p:last-child {
+ width:260px;
+ margin-right:0
+}
+#elem-FrontSpecifies_show01-1484112910560 p:last-child a {
+ color:#444;
+ text-decoration:none
+}
+#elem-FrontSpecifies_show01-1484110869009 {
+ margin-top:36px
+}
+#elem-FrontSpecifies_show01-1484110869009 p font {
+ font-size:16px;
+ font-weight:bold;
+ color:#fff;
+ line-height:26px
+}
+#elem-FrontSpecifies_show01-1484110869009 p {
+ font-family:'microsoft yahei',Verdana, Arial;
+ font-size:12px;
+ color:#ccc;
+ line-height:26px
+}
+#elem-FrontSpecifies_show01-1484110869009 p a {
+ color:#ccc;
+ text-decoration:none
+}
+#elem-FrontSpecifies_show01-1484110881361 {
+ border-top:1px solid #363d47;
+ text-align:center
+}
+#elem-FrontSpecifies_show01-1484110881361 p {
+ text-align:center;
+ height:50px;
+ line-height:50px;
+ font-family:'microsoft yahei',Verdana, Arial;
+ font-size:16px;
+ color:#ccc;
+ font-weight:bold
+}
+#elem-FrontSpecifies_show01-1484110881361 p a {
+ color:#ccc;
+ text-decoration:none
+}
+#elem-FrontSpecifies_show01-1484111793135 p {
+ width:500px;
+ margin-left:140px;
+ margin-top:70px;
+ font-family:'microsoft yahei',Verdana, Arial;
+ line-height:30px;
+ font-size:14px;
+ color:#666
+}
+.FrontSpecifies_show01-d1_c1 {
+ width:100%;
+ margin:0 auto
+}
+.FrontSpecifies_show01-d1_c1 .membernavlist {
+ width:100%;
+ background:#fff
+}
+.FrontSpecifies_show01-d1_c1 .membernavlist li {
+ height:25px
+}
+.FrontSpecifies_show01-d1_c1 .membernavlist li a {
+ float:left;
+ width:100%;
+ height:24px;
+ line-height:24px;
+ background:#ebf7fe;
+ text-decoration:none
+}
+.FrontSpecifies_show01-d1_c1 .membernavlist li a:hover {
+ background:#abe7fa;
+ border:1px solid ##7ecef4
+}
+#elem-FrontSpecifies_show01-1484216721707 {
+ margin-top:60px;
+ padding-bottom:60px
+}
+#elem-FrontSpecifies_show01-1484216721707 a {
+ width:120px;
+ height:32px;
+ display:block;
+ margin:0 auto;
+ line-height:32px;
+ background:#0c4da1;
+ color:#fff;
+ font-size:13px;
+ font-family:'microsoft yahei',Verdana, Arial;
+ text-decoration:none
+}
+.FrontColumns_navigation01-d2_c1 {
+ width:100%;
+ margin:0 auto;
+ text-align:left
+}
+.FrontColumns_navigation01-d2_c1 ul.nav-first {
+ width:100%;
+ float:left;
+ background:url("../images/nav1-bg.gif")/*tpa=http://www.tgindt.com/images/columns/nav1-bg.gif*/ left 0 repeat
+}
+.FrontColumns_navigation01-d2_c1 ul.nav-first li {
+ float:left;
+ white-space:nowrap;
+ padding-left:2px;
+ position:relative;
+ background:url("../images/nav1-line.gif")/*tpa=http://www.tgindt.com/images/columns/nav1-line.gif*/ 0 0 no-repeat
+}
+.FrontColumns_navigation01-d2_c1 ul.nav-first li a {
+ float:left;
+ height:35px;
+ line-height:35px;
+ font-weight:bold;
+ padding:0 21px;
+ text-decoration:none;
+ color:#fff
+}
+.FrontColumns_navigation01-d2_c1 ul.nav-first li a:hover {
+ background:url("../images/nav-hover-04.gif")/*tpa=http://www.tgindt.com/images/columns/nav-hover-04.gif*/ left top repeat-x
+}
+.FrontColumns_navigation01-d2_c1 ul.nav-first li.first {
+ background:url("../images/nav1-left.gif")/*tpa=http://www.tgindt.com/images/columns/nav1-left.gif*/ 0 0 no-repeat;
+ padding:0 0 0 10px
+}
+.FrontColumns_navigation01-d2_c1 ul.nav-first li.last {
+ width:10px;
+ height:35px;
+ float:right;
+ background:url("../images/nav1-right.gif")/*tpa=http://www.tgindt.com/images/columns/nav1-right.gif*/ 0 0 no-repeat
+}
+.FrontColumns_navigation01-d2_c1 .ddsubmenustyle,.FrontColumns_navigation01-d2_c1 .ddsubmenustyle ul {
+ font:normal 13px Verdana;
+ float:left;
+ overflow:hidden;
+ width:165px;
+ margin:0;
+ padding:0;
+ position:absolute;
+ left:0;
+ top:0;
+ list-style-type:none;
+ background:white;
+ border-bottom-width:0;
+ visibility:hidden;
+ z-index:100;
+ white-space:nowrap
+}
+.FrontColumns_navigation01-d2_c1 .ddsubmenustyle li a {
+ display:block;
+ width:150px;
+ font-weight:normal;
+ text-decoration:none;
+ color:#06c;
+ padding:0 0 0 15px;
+ height:24px;
+ line-height:24px;
+ text-decoration:underline;
+ border:1px solid #e4e4e4;
+ background:url("../images/nav-sec1.gif")/*tpa=http://www.tgindt.com/images/columns/nav-sec1.gif*/ 0 0 repeat-x
+}
+.FrontColumns_navigation01-d2_c1 .ddsubmenustyle li img {
+ margin-top:4px;
+ margin-top:4px9;
+ +margin-top:0
+}
+.FrontColumns_navigation01-d2_c1 .ddsubmenustyle li a:hover {
+ color:#fff;
+ text-decoration:underline;
+ border:1px solid #3cf;
+ background:url("../images/nav-sec1.gif")/*tpa=http://www.tgindt.com/images/columns/nav-sec1.gif*/ 0 -54px repeat-x
+}
+.FrontColumns_navigation01-d2_c1 .ddsubmenustyle li {
+ _width:165px
+}
+.FrontColumns_navigation01-d2_c1 .ddsubmenustyle li a:hover {
+ color:white
+}
+.FrontColumns_navigation01-d2_c1 .downarrowpointer {
+ padding-left:4px;
+ border:0;
+ _margin-top:16px;
+ display:none
+}
+.FrontColumns_navigation01-d2_c1 .rightarrowpointer {
+ position:absolute;
+ padding-top:3px;
+ left:100px;
+ border:0
+}
+.FrontColumns_navigation01-d2_c1 .ddiframeshim {
+ position:absolute;
+ z-index:500;
+ background:transparent;
+ border-width:0;
+ width:0;
+ height:0;
+ display:block
+}
+.FrontColumns_navigation01-d2_c1 .mattblackmenu ul {
+ margin:0;
+ padding:0;
+ font:bold 12px Verdana;
+ list-style-type:none;
+ border-bottom:1px solid gray;
+ overflow:hidden;
+ width:100%
+}
+.FrontColumns_navigation01-d2_c1 .mattblackmenu li {
+ display:inline;
+ margin:0
+}
+.FrontColumns_navigation01-d2_c1 .mattblackmenu li a {
+ float:left;
+ display:block;
+ text-decoration:none;
+ margin:0;
+ padding:6px 8px;
+ color:white
+}
+.FrontColumns_navigation01-d2_c1 .mattblackmenu a.selected {
+ background:url("../images/nav-hover-04.gif")/*tpa=http://www.tgindt.com/images/columns/nav-hover-04.gif*/ left top repeat-x
+}
+#elem-FrontColumns_navigation01-1484107173862 .nav-first {
+ border:0;
+ background:0
+}
+#elem-FrontColumns_navigation01-1484107173862 .nav-first li {
+ padding:0;
+ margin:0;
+ background:0
+}
+#elem-FrontColumns_navigation01-1484107173862 .nav-first li a {
+ width:120px;
+ line-height:90px;
+ height:90px;
+ font-family:'microsoft yahei',Verdana, Arial;
+ font-weight:bold;
+ font-size:16px;
+ color:#333;
+ padding:0;
+ margin:0;
+ background:0;
+ text-align:center
+}
+#elem-FrontColumns_navigation01-1484107173862 .nav-first .last {
+ display:none
+}
+.FrontPublic_totalSearch01-d2_c1 {
+ width:90%;
+ margin:0 auto;
+ clear:both;
+ overflow:hidden;
+ text-align:left
+}
+.FrontPublic_totalSearch01-d2_c1 .fontred,.FrontPublic_totalSearch01-d2_c1 .fontwhite {
+ color:#f60
+}
+.FrontPublic_totalSearch01-d2_c1 .fontwhite {
+ color:#fff
+}
+.FrontPublic_totalSearch01-d2_c1 select {
+ height:20px;
+ line-height:20px;
+ vertical-align:middle
+}
+.FrontPublic_totalSearch01-d2_c1 .input {
+ border:1px solid #c9cacb;
+ height:19px;
+ line-height:19px;
+ vertical-align:middle
+}
+.FrontPublic_totalSearch01-d2_c1 .btn {
+ height:24px;
+ line-height:24px;
+ vertical-align:middle
+}
+.fullSlide {
+ position:relative;
+ width:100%;
+ background:#000;
+ height:510px;
+ overflow:hidden
+}
+.fullSlide .bd {
+ z-index:0;
+ position:relative;
+ margin:0 auto;
+ height:510px;
+ overflow:hidden
+}
+.fullSlide .bd UL {
+ width:100%!important
+}
+.fullSlide .bd LI {
+ position:absolute;
+ text-align:center;
+ width:1920px;
+ height:510px;
+ margin-left:-960px;
+ overflow:hidden;
+ left:50%
+}
+.fullSlide .bd LI A {
+ display:block;
+ height:510px;
+ color:#fff
+}
+.fullSlide .hd {
+ z-index:1;
+ position:absolute;
+ line-height:30px;
+ width:auto;
+ bottom:15px;
+ display:none;
+ height:30px;
+ left:45%
+}
+.fullSlide .hd UL {
+ text-align:center;
+ padding-left:2%;
+ width:100%;
+ height:30px
+}
+.fullSlide .hd UL LI {
+ filter:alpha(opacity=50);
+ line-height:999px;
+ margin:1px;
+ width:42px;
+ zoom:1;
+ display:inline-block;
+ background:#fff;
+ float:left;
+ height:8px;
+ overflow:hidden;
+ cursor:pointer;
+ opacity:.5
+}
+.fullSlide .hd UL .on {
+ background:#f00
+}
+.fullSlide .prev {
+ z-index:1;
+ position:absolute;
+ filter:alpha(opacity=50);
+ margin-top:-30px;
+ width:40px;
+ display:none;
+ background:url(../images/slider-arrow.png) #000 no-repeat -125px 50%;
+ height:60px;
+ top:50%;
+ cursor:pointer;
+ left:0;
+ opacity:.5
+}
+.fullSlide .next {
+ z-index:1;
+ position:absolute;
+ filter:alpha(opacity=50);
+ margin-top:-30px;
+ width:40px;
+ display:none;
+ background:url(../images/slider-arrow.png) #000 no-repeat -5px 50%;
+ height:60px;
+ top:50%;
+ cursor:pointer;
+ left:15%;
+ opacity:.5
+}
+.fullSlide .next {
+ right:0;
+ left:auto
+}
+.fullSlide .bd .f_title {
+ position:absolute;
+ text-align:center;
+ filter:alpha(opacity=0);
+ line-height:30px;
+ width:100%;
+ bottom:1px;
+ background:#000;
+ height:30px;
+ opacity:0
+}
+.FrontProducts_generalSearch01-d1_c1_01 {
+ width:100%;
+ margin:0 auto;
+ clear:both;
+ text-align:left
+}
+.FrontProducts_generalSearch01-d1_c1_01 span {
+ padding:0 3px
+}
+.FrontProducts_generalSearch01-d1_c1_01 span.keyword,.FrontProducts_generalSearch01-d1_c1_01 span.category {
+ display:inline-block;
+ line-height:20px;
+ padding-bottom:5px
+}
+.FrontProducts_generalSearch01-d1_c1_01 span.keyword,.FrontProducts_generalSearch01-d1_c1_01 span.keyword {
+ padding-right:18px
+}
+.FrontProducts_generalSearch01-d1_c1_01 select {
+ vertical-align:middle
+}
+.FrontProducts_generalSearch01-d1_c1_01 .input {
+ border:1px solid #00b9ef;
+ height:20px;
+ line-height:20px;
+ vertical-align:middle
+}
+.FrontProducts_generalSearch01-d1_c1_01 .input-light {
+ border:1px solid #003ccc
+}
+.FrontProducts_generalSearch01-d1_c1_01 .input-gray {
+ background:url("../images/input-bg.gif")/*tpa=http://www.tgindt.com/images/products/input-bg.gif*/ left top no-repeat;
+ width:120px;
+ color:#000
+}
+.FrontProducts_generalSearch01-d1_c1_01 .input-keyword {
+ color:gray
+}
+.FrontProducts_generalSearch01-d1_c1_01 .input-width {
+ width:90px;
+ text-align:center
+}
+.FrontProducts_generalSearch01-d1_c1_01 .input-width2 {
+ width:100px
+}
+.FrontProducts_generalSearch01-d1_c1_01 span.condition {
+ display:inline-block;
+ line-height:20px;
+ padding-bottom:5px
+}
+.FrontProducts_generalSearch01-d1_c1_01 span.search1 {
+ padding-left:0
+}
+.FrontProducts_generalSearch01-d1_c1_01 .btn {
+ vertical-align:middle;
+ *vertical-align:inherit
+}
+#elem-FrontProducts_generalSearch01-1484107246629 {
+ height:26px;
+ margin-top:32px;
+ position:relative
+}
+#elem-FrontProducts_generalSearch01-1484107246629 .keyword {
+ width:180px;
+ height:26px;
+ padding:0;
+ margin:0;
+ position:absolute;
+ top:-80px;
+ right:30px;
+ transition:top 1s;
+ padding-left:10px;
+ background:#fff
+}
+#elem-FrontProducts_generalSearch01-1484107246629 .keyword span {
+ display:none
+}
+#elem-FrontProducts_generalSearch01-1484107246629 .keyword input {
+ padding:0;
+ width:178px;
+ height:25px;
+ border:0;
+ background:0;
+ background:#fff;
+ border-bottom:1px solid #6d94c7;
+ color:#999;
+ line-height:22px;
+ font-size:10px
+}
+#elem-FrontProducts_generalSearch01-1484107246629 .search1 {
+ padding:0;
+ margin:0;
+ width:26px;
+ height:26px
+}
+#elem-FrontProducts_generalSearch01-1484107246629 .search1 input {
+ background: url(../images/sc.png);
+ width:26px;
+ height:26px
+}
+#elem-FrontProducts_generalSearch01-1484107246629:hover .keyword {
+ display:block;
+ top:0
+}
+.FrontProducts_list01-d1_c1 {
+ text-align:left;
+ margin:0 auto;
+ width:100%;
+ clear:both;
+ overflow:hidden
+}
+.FrontProducts_list01-d1_c1 UL {
+ width:100%
+}
+.FrontProducts_list01-d1_c1 .focustext {
+ font-style:normal;
+ color:#f39800
+}
+.FrontProducts_list01-d1_c1 .type {
+ width:100%;
+ overflow:hidden
+}
+.FrontProducts_list01-d1_c1 .type SPAN.skim {
+ float:left
+}
+.FrontProducts_list01-d1_c1 .type SPAN.sort {
+ float:right
+}
+.FrontProducts_list01-d1_c1 .type SPAN.sort SELECT {
+ float:left
+}
+.FrontProducts_list01-d1_c1 .type SPAN.sort .ph {
+ text-indent:-9999px;
+ margin:5px 4px 0 0;
+ width:19px;
+ background:url("../images/icon-07.gif")/*tpa=http://www.tgindt.com/images/products/icon-07.gif*/ no-repeat 0 0;
+ float:left;
+ height:12px;
+ overflow:hidden
+}
+.FrontProducts_list01-d1_c1 .type SPAN.sort .ph1:hover {
+ background:url("../images/icon-07.gif")/*tpa=http://www.tgindt.com/images/products/icon-07.gif*/ no-repeat 0 -12px
+}
+.FrontProducts_list01-d1_c1 .type SPAN.sort .ph2 {
+ background:url("../images/icon-08.gif")/*tpa=http://www.tgindt.com/images/products/icon-08.gif*/ no-repeat 0 0
+}
+.FrontProducts_list01-d1_c1 .type SPAN.sort .ph2:hover {
+ background:url("../images/icon-08.gif")/*tpa=http://www.tgindt.com/images/products/icon-08.gif*/ no-repeat 0 -12px
+}
+.FrontProducts_list01-d1_c1 .type SPAN.sort .ph3 {
+ width:13px;
+ background:url("../images/icon-09.gif")/*tpa=http://www.tgindt.com/images/products/icon-09.gif*/ no-repeat 0 0;
+ height:13px
+}
+.FrontProducts_list01-d1_c1 .type SPAN.sort .ph3:hover {
+ background:url("../images/icon-09.gif")/*tpa=http://www.tgindt.com/images/products/icon-09.gif*/ no-repeat 0 -14px
+}
+.FrontProducts_list01-d1_c1 .type SPAN.sort .ph4 {
+ width:13px;
+ background:url("../images/icon-10.gif")/*tpa=http://www.tgindt.com/images/products/icon-10.gif*/ no-repeat 0 0;
+ height:13px
+}
+.FrontProducts_list01-d1_c1 .type SPAN.sort .ph4:hover {
+ background:url("../images/icon-10.gif")/*tpa=http://www.tgindt.com/images/products/icon-10.gif*/ no-repeat 0 -14px
+}
+.FrontProducts_list01-d1_c1 .type SPAN.skim A {
+ padding-right:5px
+}
+.FrontProducts_list01-d1_c1 .type SPAN.skim A IMG {
+ border-bottom:0;
+ border-left:0;
+ vertical-align:middle;
+ border-top:0;
+ border-right:0
+}
+.FrontProducts_list01-d1_c1 .content {
+ margin-top:5px;
+ float:left;
+ overflow:hidden
+}
+.FrontProducts_list01-d1_c1 .content .pro-module {
+ width:70%;
+ float:left
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.text {
+ clear:both
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.text EM {
+ border-bottom:#adb9c2 1px solid;
+ border-left:#adb9c2 1px solid;
+ padding-bottom:0;
+ font-style:normal;
+ margin:0;
+ padding-left:3px;
+ padding-right:3px;
+ background:url("../images/size_bg.gif")/*tpa=http://www.tgindt.com/images/products/size_bg.gif*/ repeat-x left top;
+ height:13px;
+ color:#09f;
+ border-top:#adb9c2 1px solid;
+ cursor:pointer;
+ border-right:#adb9c2 1px solid;
+ padding-top:0
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.text SPAN {
+ margin-right:5px
+}
+.FrontProducts_list01-d1_c1 .pro-module .specifications {
+ padding-left:10px;
+ background:#ffc
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.property {
+ vertical-align:middle
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.property LABEL {
+ padding-right:10px
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.property IMG {
+ padding-bottom:4px;
+ padding-left:4px;
+ width:12px;
+ padding-right:4px;
+ height:12px;
+ cursor:pointer;
+ padding-top:4px
+}
+.FrontProducts_list01-d1_c1 .detail {
+ clear:both
+}
+.FrontProducts_list01-d1_c1 .pic-module {
+ position:relative;
+ width:140px;
+ float:left;
+ margin-right:5px
+}
+.FrontProducts_list01-d1_c1 .pic-module .pic A {
+ text-align:center;
+ display:block;
+ float:left
+}
+.FrontProducts_list01-d1_c1 .pic-module .pic A IMG {
+ border-bottom:0;
+ border-left:0;
+ width:120px;
+ height:90px;
+ border-top:0;
+ border-right:0
+}
+.FrontProducts_list01-d1_c1 .pic-module SPAN.lab {
+ z-index:999;
+ position:absolute;
+ top:75px;
+ cursor:pointer;
+ left:10px
+}
+.FrontProducts_list01-d1_c1 .pic-module SPAN.lab IMG {
+ max-width:40px;
+ max-height:40px
+}
+.FrontProducts_list01-d1_c1 .pic-module .compare {
+ width:100%;
+ overflow:hidden;
+ padding-top:10px
+}
+.FrontProducts_list01-d1_c1 .pro-module H1 {
+ margin:0;
+ color:#0068cc;
+ font-size:12px
+}
+.FrontProducts_list01-d1_c1 .pro-module H1 SPAN {
+ display:none
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI {
+ line-height:23px
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI SPAN {
+ color:#999;
+ font-weight:normal
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.code {
+ color:#f39800;
+ font-weight:bold
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.name STRONG {
+ font-weight:normal
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.weight {
+ color:#f39800
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.skim {
+ color:#f39800
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.marketprice LABEL {
+ text-decoration:line-through
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.memberprice LABEL {
+ color:#e60012;
+ font-size:13px
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.integral {
+ padding-bottom:0;
+ padding-left:0;
+ padding-right:15px;
+ color:#f39800;
+ padding-top:0
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.discount {
+ padding-bottom:0;
+ padding-left:0;
+ padding-right:15px;
+ color:#f39800;
+ padding-top:0
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.save {
+ padding-bottom:0;
+ padding-left:0;
+ padding-right:15px;
+ color:#f39800;
+ padding-top:0
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.size {
+ clear:both
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.size A {
+ border-bottom:#adb9c2 1px solid;
+ border-left:#adb9c2 1px solid;
+ padding-bottom:0;
+ margin:0 5px 0 0;
+ padding-left:3px;
+ padding-right:3px;
+ background:url("../images/size_bg.gif")/*tpa=http://www.tgindt.com/images/products/size_bg.gif*/ repeat-x left top;
+ height:13px;
+ border-top:#adb9c2 1px solid;
+ border-right:#adb9c2 1px solid;
+ padding-top:0
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.color LABEL {
+ padding-right:10px
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.color IMG {
+ padding-left:2px;
+ vertical-align:middle
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.comment2 {
+ padding-right:5px;
+ clear:both;
+ vertical-align:middle
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.comment2 IMG {
+ padding-right:5px;
+ vertical-align:middle
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI .input {
+ border-bottom:#ddddde 1px solid;
+ border-left:#ddddde 1px solid;
+ line-height:15px;
+ width:80px;
+ height:15px;
+ border-top:#ddddde 1px solid;
+ border-right:#ddddde 1px solid
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI .inputgray {
+ color:#000;
+ font-size:12px
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.number SPAN {
+ padding-left:12px
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.outstock IMG {
+ vertical-align:middle
+}
+.FrontProducts_list01-d1_c1 .pro-module P.buttonP {
+ clear:both
+}
+.FrontProducts_list01-d1_c1 .pro-module P.buttonP .btna {
+ margin-right:3px
+}
+.FrontProducts_list01-d1_c1 .pro-module P.buttonP SPAN.buy A {
+ color:#fff
+}
+.FrontProducts_list01-d1_c1 .pro-module P.buttonP SPAN.price A {
+ color:#fff
+}
+.FrontProducts_list01-d1_c1 .pro-module P.buttonP SPAN.favor A {
+ color:#727171
+}
+.FrontProducts_list01-d1_c1 .pro-module P.buttonP SPAN.qq A {
+ color:#727171
+}
+.FrontProducts_list01-d1_c1 .pro-module P.buttonP SPAN A:hover {
+ text-decoration:none
+}
+.FrontProducts_list01-d1_c1 .pro-module P.buttonP SPAN.buy {
+ background:url("../images/btn-blue1-02.gif")/*tpa=http://www.tgindt.com/images/products/btn-blue1-02.gif*/ no-repeat left top;
+ float:left
+}
+.FrontProducts_list01-d1_c1 .pro-module P.buttonP SPAN.price {
+ background:url("../images/btn-blue1-02.gif")/*tpa=http://www.tgindt.com/images/products/btn-blue1-02.gif*/ no-repeat left top;
+ float:left
+}
+.FrontProducts_list01-d1_c1 .pro-module P.buttonP SPAN.favor {
+ background:url("../images/btn-gray1-02.gif")/*tpa=http://www.tgindt.com/images/products/btn-gray1-02.gif*/ no-repeat left top;
+ float:left;
+ color:#727171
+}
+.FrontProducts_list01-d1_c1 .pro-module P.buttonP SPAN.qq {
+ width:51px;
+ background:url("../images/btn-gray1-03.gif")/*tpa=http://www.tgindt.com/images/products/btn-gray1-03.gif*/ no-repeat left top;
+ color:#727171
+}
+.FrontProducts_list01-d1_c1 .pro-module .describe {
+ color:#666464
+}
+.FrontProducts_list01-d1_c1 .pro-module .describe SPAN {
+ font-weight:bold
+}
+.FrontProducts_list01-d1_c1 .other {
+ margin:10px 0 0
+}
+.FrontProducts_list01-d1_c1 .other P {
+ margin:0;
+ height:20px;
+ color:#666464
+}
+.FrontProducts_list01-d1_c1 .skip-pages {
+ text-align:right;
+ margin-top:10px;
+ width:100%;
+ clear:both;
+ overflow:hidden
+}
+.FrontProducts_list01-d1_c1 .pop-brand {
+ z-index:9999;
+ position:absolute;
+ width:229px;
+ top:120px;
+ left:205px
+}
+.FrontProducts_list01-d1_c1 .pop-picbig {
+ z-index:9999;
+ border-bottom:#000 1px solid;
+ position:absolute;
+ border-left:#000 1px solid;
+ padding-bottom:5px;
+ padding-left:5px;
+ width:229px;
+ padding-right:5px;
+ border-top:#000 1px solid;
+ top:160px;
+ border-right:#000 1px solid;
+ padding-top:5px;
+ left:120px
+}
+.FrontProducts_list01-d1_c1 .pop-picbig IMG {
+ width:400px;
+ height:300px
+}
+.FrontProducts_list01-d1_c1 .pop-brand P.top {
+ text-align:right;
+ padding-bottom:0;
+ margin:0;
+ padding-left:0;
+ padding-right:15px;
+ background:url("../images/pop-top.gif")/*tpa=http://www.tgindt.com/images/products/pop-top.gif*/ no-repeat left top;
+ height:23px;
+ padding-top:20px
+}
+.FrontProducts_list01-d1_c1 .pop-brand P.top A.close {
+ width:24px;
+ display:block;
+ background:url("../images/close.gif")/*tpa=http://www.tgindt.com/images/products/close.gif*/ no-repeat right top;
+ float:right;
+ height:17px
+}
+.FrontProducts_list01-d1_c1 .pop-brand P.top A.close:hover {
+ background:url("../images/close-hover.gif")/*tpa=http://www.tgindt.com/images/products/close-hover.gif*/ no-repeat right top
+}
+.FrontProducts_list01-d1_c1 .pop-brand .intro {
+ padding-bottom:5px;
+ padding-left:0;
+ padding-right:0;
+ background:url("../images/pop-bg.gif")/*tpa=http://www.tgindt.com/images/products/pop-bg.gif*/ repeat-y left top;
+ padding-top:5px
+}
+.FrontProducts_list01-d1_c1 .pop-brand .intro P.pic {
+ text-align:center;
+ margin:0
+}
+.FrontProducts_list01-d1_c1 .pop-brand .intro P.pic IMG {
+ padding-bottom:5px;
+ padding-left:5px;
+ width:150px;
+ padding-right:5px;
+ height:115px;
+ padding-top:5px;
+ _margin-bottom:1px
+}
+.FrontProducts_list01-d1_c1 .pop-brand .intro H4 {
+ margin:15px 0 0 15px;
+ font-size:12px
+}
+.FrontProducts_list01-d1_c1 .pop-brand .intro .info {
+ padding-bottom:5px;
+ line-height:18px;
+ padding-left:15px;
+ padding-right:15px;
+ font-size:12px;
+ padding-top:5px
+}
+.FrontProducts_list01-d1_c1 .pop-brand .intro P.address {
+ margin:10px 0 0 15px;
+ font-size:12px
+}
+.FrontProducts_list01-d1_c1 .pop-picbig A.close {
+ position:absolute;
+ width:18px;
+ display:block;
+ background:url("../images/ad-close-01.gif")/*tpa=http://www.tgindt.com/images/products/ad-close-01.gif*/ no-repeat left top;
+ height:18px;
+ top:-8px;
+ right:-10px
+}
+.FrontProducts_list01-d1_c1 .pop-picbig A.close:hover {
+ background:url("../images/ad-close-02.gif")/*tpa=http://www.tgindt.com/images/products/ad-close-02.gif*/ no-repeat left top
+}
+.FrontProducts_list01-d1_c1 .mainul {
+ position:relative;
+ width:100%;
+ overflow:hidden
+}
+.FrontProducts_list01-d1_c1 .property .click IMG {
+ padding-bottom:3px;
+ background-color:#ff0;
+ padding-left:3px;
+ width:12px;
+ padding-right:3px;
+ display:inline-block;
+ height:12px;
+ cursor:pointer;
+ padding-top:3px
+}
+.FrontProducts_list01-d1_c1 .property IMG {
+ padding-bottom:0;
+ padding-left:0;
+ width:12px;
+ padding-right:0;
+ height:12px;
+ cursor:pointer;
+ padding-top:0
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.text {
+ clear:both
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.text EM {
+ border-bottom:#adb9c2 1px solid;
+ border-left:#adb9c2 1px solid;
+ padding-bottom:0;
+ font-style:normal;
+ margin:0;
+ padding-left:3px;
+ padding-right:3px;
+ background:url("../images/size_bg.gif")/*tpa=http://www.tgindt.com/images/products/size_bg.gif*/ repeat-x left top;
+ height:13px;
+ color:#09f;
+ border-top:#adb9c2 1px solid;
+ cursor:pointer;
+ border-right:#adb9c2 1px solid;
+ padding-top:0
+}
+.FrontProducts_list01-d1_c1 .pro-module UL LI.text SPAN {
+ margin-right:5px
+}
+.FrontProducts_list01-d1_c1 .pro-module .specifications {
+ padding-left:10px;
+ background:#ffc
+}
+.FrontProducts_list01-d1_c1 .scrollnavi {
+ width:200px;
+ height:20px
+}
+.FrontProducts_list01-d1_c1 .scrollnavi A {
+ margin:3px;
+ width:8px;
+ display:block;
+ background:url("../images/navigator.png")/*tpa=http://www.tgindt.com/images/products/navigator.png*/ no-repeat 0 0;
+ float:left;
+ height:8px;
+ font-size:1px
+}
+.FrontProducts_list01-d1_c1 .scrollnavi A:hover {
+ background-position:0 -8px
+}
+.FrontProducts_list01-d1_c1 .scrollnavi A.active {
+ background-position:0 -16px
+}
+.FrontProducts_list01-d1_c1 A.scrollbrowse {
+ margin:40px 10px;
+ width:30px;
+ display:block;
+ background:url("../images/hori_large.png")/*tpa=http://www.tgindt.com/images/products/hori_large.png*/ no-repeat;
+ float:left;
+ height:30px;
+ clear:both;
+ font-size:1px;
+ cursor:pointer
+}
+.FrontProducts_list01-d1_c1 A.scrollright {
+ background-position:0 -30px;
+ clear:right;
+ margin-right:0
+}
+.FrontProducts_list01-d1_c1 A.scrollright:hover {
+ background-position:-30px -30px
+}
+.FrontProducts_list01-d1_c1 A.scrollright:active {
+ background-position:-60px -30px
+}
+.FrontProducts_list01-d1_c1 A.scrollleft {
+ margin-left:0
+}
+.FrontProducts_list01-d1_c1 A.scrollleft:hover {
+ background-position:-30px 0
+}
+.FrontProducts_list01-d1_c1 A.scrollleft:active {
+ background-position:-60px 0
+}
+.FrontProducts_list01-d1_c1 A.scrollup {
+ margin:10px 50px;
+ background:url("../images/vert_large.png")/*tpa=http://www.tgindt.com/images/products/vert_large.png*/ no-repeat;
+ float:none
+}
+.FrontProducts_list01-d1_c1 A.scrolldown {
+ margin:10px 50px;
+ background:url("../images/vert_large.png")/*tpa=http://www.tgindt.com/images/products/vert_large.png*/ no-repeat;
+ float:none
+}
+.FrontProducts_list01-d1_c1 A.scrollup:hover {
+ background-position:-30px 0
+}
+.FrontProducts_list01-d1_c1 A.scrollup:active {
+ background-position:-60px 0
+}
+.FrontProducts_list01-d1_c1 A.scrolldown {
+ background-position:0 -30px;
+ float:left;
+ clear:both
+}
+.FrontProducts_list01-d1_c1 A.scrolldown:hover {
+ background-position:-30px -30px
+}
+.FrontProducts_list01-d1_c1 A.scrolldown:active {
+ background-position:-60px -30px
+}
+.FrontProducts_list01-d1_c1 .scrollable {
+ position:relative;
+ width:575px;
+ float:left;
+ height:240px;
+ overflow:hidden
+}
+.FrontProducts_list01-d1_c1 .scrollitems {
+ position:absolute;
+ width:20000px;
+ clear:both
+}
+.FrontProducts_list01-d1_c1 .scrollable_vertical {
+ position:relative;
+ width:575px;
+ height:240px;
+ overflow:hidden
+}
+.FrontProducts_list01-d1_c1 .scrollable_vertical .scrollitems {
+ position:absolute;
+ height:20000px;
+ clear:both
+}
+.FrontProducts_list01-d1_c1 .scrollitems_vertical {
+ position:absolute;
+ height:20000px;
+ clear:both
+}
+.FrontProducts_list01-d1_c1 .content1 {
+ width:180px
+}
+#elem-FrontProducts_list01-001 .FrontProducts_list01-d1_c1 .pic-module .pic A IMG {
+ width:70px;
+ height:40px
+}
+#elem-FrontProducts_list01-001 .FrontProducts_list01-d1_c1 STRONG {
+ font-weight:normal
+}
+#elem-FrontProducts_list01-001 .FrontProducts_list01-d1_c1 .pic-module {
+ width:90px
+}
+#elem-FrontProducts_list01-001 .FrontProducts_list01-d1_c1 .pro-module {
+ width:60%
+}
+#elem-FrontProducts_list01-001 .FrontProducts_list01-d1_c1 .pro-module UL LI {
+ line-height:14px
+}
+#elem-FrontProducts_list01-001 .FrontProducts_list01-d1_c1 .type {
+ display:none
+}
+#elem-FrontProducts_list01-001 .FrontProducts_list01-d1_c1 .content {
+ margin-bottom:5px
+}
+#elem-FrontProducts_list01-002 .FrontProducts_list01-d1_c1 LI.column-num3 {
+ width:33.3%
+}
+#elem-FrontProducts_list01-002 .FrontProducts_list01-d1_c1 .content .pro-module {
+ width:90%
+}
+#elem-FrontProducts_list01-002 .FrontProducts_list01-d1_c1 .pic-module .pic A IMG {
+ width:160px;
+ height:120px
+}
+.FrontProducts_list01_view2-d1_c1 {
+ width:100%;
+ margin:0 auto;
+ clear:both;
+ height:100%;
+ overflow:hidden;
+ text-align:left
+}
+.FrontProducts_list01_view2-d1_c1 ul {
+ width:100%
+}
+.FrontProducts_list01_view2-d1_c1 .focustext {
+ color:#f39800;
+ font-style:normal
+}
+.FrontProducts_list01_view2-d1_c1 .type {
+ width:100%;
+ overflow:hidden
+}
+.FrontProducts_list01_view2-d1_c1 .type span.skim {
+ float:left
+}
+.FrontProducts_list01_view2-d1_c1 .type span.sort {
+ float:right
+}
+.FrontProducts_list01_view2-d1_c1 .type span.sort select {
+ float:left
+}
+.FrontProducts_list01_view2-d1_c1 .type span.sort .ph {
+ float:left;
+ width:19px;
+ height:12px;
+ margin:5px 4px 0 0;
+ text-indent:-9999px;
+ overflow:hidden;
+ background:url("../images/icon-07.gif")/*tpa=http://www.tgindt.com/images/products/icon-07.gif*/ 0 0 no-repeat
+}
+.FrontProducts_list01_view2-d1_c1 .type span.sort .ph1:hover {
+ background:url("../images/icon-07.gif")/*tpa=http://www.tgindt.com/images/products/icon-07.gif*/ 0 -12px no-repeat
+}
+.FrontProducts_list01_view2-d1_c1 .type span.sort .ph2 {
+ background:url("../images/icon-08.gif")/*tpa=http://www.tgindt.com/images/products/icon-08.gif*/ 0 0 no-repeat
+}
+.FrontProducts_list01_view2-d1_c1 .type span.sort .ph2:hover {
+ background:url("../images/icon-08.gif")/*tpa=http://www.tgindt.com/images/products/icon-08.gif*/ 0 -12px no-repeat
+}
+.FrontProducts_list01_view2-d1_c1 .type span.sort .ph3 {
+ width:13px;
+ height:13px;
+ background:url("../images/icon-09.gif")/*tpa=http://www.tgindt.com/images/products/icon-09.gif*/ 0 0 no-repeat
+}
+.FrontProducts_list01_view2-d1_c1 .type span.sort .ph3:hover {
+ background:url("../images/icon-09.gif")/*tpa=http://www.tgindt.com/images/products/icon-09.gif*/ 0 -14px no-repeat
+}
+.FrontProducts_list01_view2-d1_c1 .type span.sort .ph4 {
+ width:13px;
+ height:13px;
+ background:url("../images/icon-10.gif")/*tpa=http://www.tgindt.com/images/products/icon-10.gif*/ 0 0 no-repeat
+}
+.FrontProducts_list01_view2-d1_c1 .type span.sort .ph4:hover {
+ background:url("../images/icon-10.gif")/*tpa=http://www.tgindt.com/images/products/icon-10.gif*/ 0 -14px no-repeat
+}
+.FrontProducts_list01_view2-d1_c1 .type span.skim a {
+ padding-right:5px
+}
+.FrontProducts_list01_view2-d1_c1 .type span.skim a img {
+ border:0;
+ vertical-align:middle
+}
+.FrontProducts_list01_view2-d1_c1 .content {
+ float:left;
+ overflow:hidden;
+ margin-top:5px
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module {
+ width:100%;
+ overflow:hidden;
+ text-align:left
+}
+.FrontProducts_list01_view2-d1_c1 .pro-module ul li.text {
+ clear:both
+}
+.FrontProducts_list01_view2-d1_c1 .pro-module ul li.text em {
+ background:url("../images/size_bg.gif")/*tpa=http://www.tgindt.com/images/products/size_bg.gif*/ left top repeat-x;
+ height:13px;
+ border:1px solid #adb9c2;
+ padding:0 3px;
+ margin:0;
+ font-style:normal;
+ color:#09f;
+ cursor:pointer
+}
+.FrontProducts_list01_view2-d1_c1 .pro-module ul li.text span {
+ margin-right:5px
+}
+.FrontProducts_list01_view2-d1_c1 .pro-module .specifications {
+ background:#ffc;
+ padding-left:10px
+}
+.FrontProducts_list01_view2-d1_c1 .pro-module ul li.property {
+ vertical-align:middle
+}
+.FrontProducts_list01_view2-d1_c1 .pro-module ul li.property label {
+ padding-right:10px
+}
+.FrontProducts_list01_view2-d1_c1 .pro-module ul li.property img {
+ width:12px;
+ height:12px;
+ padding:4px;
+ cursor:pointer
+}
+.FrontProducts_list01_view2-d1_c1 .detail {
+ clear:both
+}
+.FrontProducts_list01_view2-d1_c1 .pic-module {
+ float:left;
+ width:140px;
+ margin-right:5px;
+ position:relative
+}
+.FrontProducts_list01_view2-d1_c1 .pic-module .pic a {
+ float:left;
+ text-align:center;
+ display:block
+}
+.FrontProducts_list01_view2-d1_c1 .pic-module .pic a img {
+ width:120px;
+ height:90px;
+ border:0
+}
+.FrontProducts_list01_view2-d1_c1 .pic-module span.lab {
+ position:absolute;
+ top:75px;
+ left:10px;
+ z-index:999;
+ cursor:pointer
+}
+.FrontProducts_list01_view2-d1_c1 .pic-module span.lab img {
+ max-height:40px;
+ max-width:40px
+}
+.FrontProducts_list01_view2-d1_c1 .pic-module .compare {
+ width:100%;
+ overflow:hidden;
+ padding-top:10px
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module h1 {
+ margin:0;
+ font-size:12px;
+ color:#0068cc
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li {
+ float:left;
+ white-space:nowrap;
+ padding-right:25px
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li span {
+ color:#999;
+ font-weight:normal
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.code {
+ color:#f39800;
+ font-weight:bold
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.name strong {
+ font-weight:normal
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.weight,.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.skim {
+ color:#f39800
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.marketprice label {
+ text-decoration:line-through
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.memberprice label {
+ color:#e60012
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.integral,.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.discount,.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.save {
+ padding:0 15px 0 0;
+ color:#f39800
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.size {
+ clear:both
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.size a {
+ background:url("../images/size_bg.gif")/*tpa=http://www.tgindt.com/images/products/size_bg.gif*/ left top repeat-x;
+ height:13px;
+ border:1px solid #adb9c2;
+ padding:0 3px;
+ margin:0 5px 0 0
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.color label {
+ padding-right:10px
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.color img {
+ vertical-align:middle;
+ padding-left:2px
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.comment2 {
+ clear:both;
+ vertical-align:middle;
+ padding-right:5px
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.comment2 img {
+ vertical-align:middle;
+ padding-right:5px
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li .input {
+ border:1px solid #ddddde;
+ height:15px;
+ line-height:15px;
+ width:80px
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li .inputgray {
+ color:#000;
+ font-size:12px
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.number span {
+ padding-left:12px
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module ul li.outstock img {
+ vertical-align:middle
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module .buttonP {
+ float:left
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module .buttonP .btna {
+ margin-right:3px
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module .buttonP .btna span {
+ color:#fff
+}
+.FrontProducts_list01_view2-d1_c1 .content .pro-module .buttonP .btna-unimp-04 span {
+ color:#0068b7
+}
+.FrontProducts_list01_view2-d1_c1 .describe {
+ color:#666464
+}
+.FrontProducts_list01_view2-d1_c1 .describe span {
+ font-weight:bold
+}
+.FrontProducts_list01_view2-d1_c1 .other {
+ margin:10px 0 0 0
+}
+.FrontProducts_list01_view2-d1_c1 .other p {
+ margin:0;
+ height:20px;
+ color:#666464
+}
+.FrontProducts_list01_view2-d1_c1 .skip-pages {
+ clear:both;
+ width:100%;
+ overflow:hidden;
+ text-align:right;
+ margin-top:10px
+}
+.FrontProducts_list01_view2-d1_c1 .pop-brand {
+ position:absolute;
+ left:205px;
+ top:120px;
+ width:229px;
+ z-index:9999
+}
+.FrontProducts_list01_view2-d1_c1 .pop-picbig {
+ position:absolute;
+ left:120px;
+ top:160px;
+ width:229px;
+ z-index:9999;
+ border:1px solid #000;
+ padding:5px
+}
+.FrontProducts_list01_view2-d1_c1 .pop-picbig img {
+ width:400px;
+ height:300px
+}
+.FrontProducts_list01_view2-d1_c1 .pop-brand p.top {
+ background:url("../images/pop-top.gif")/*tpa=http://www.tgindt.com/images/products/pop-top.gif*/ left top no-repeat;
+ margin:0;
+ height:23px;
+ text-align:right;
+ padding:20px 15px 0 0
+}
+.FrontProducts_list01_view2-d1_c1 .pop-brand p.top a.close {
+ background:url("../images/close.gif")/*tpa=http://www.tgindt.com/images/products/close.gif*/ right top no-repeat;
+ width:24px;
+ height:17px;
+ display:block;
+ float:right
+}
+.FrontProducts_list01_view2-d1_c1 .pop-brand p.top a.close:hover {
+ background:url("../images/close-hover.gif")/*tpa=http://www.tgindt.com/images/products/close-hover.gif*/ right top no-repeat
+}
+.FrontProducts_list01_view2-d1_c1 .pop-brand .intro {
+ padding:5px 0;
+ background:url("../images/pop-bg.gif")/*tpa=http://www.tgindt.com/images/products/pop-bg.gif*/ left top repeat-y
+}
+.FrontProducts_list01_view2-d1_c1 .pop-brand .intro p.pic {
+ text-align:center;
+ margin:0
+}
+.FrontProducts_list01_view2-d1_c1 .pop-brand .intro p.pic img {
+ padding:5px;
+ width:150px;
+ height:115px;
+ _margin-bottom:1px
+}
+.FrontProducts_list01_view2-d1_c1 .pop-brand .intro h4 {
+ font-size:12px;
+ margin:15px 0 0 15px
+}
+.FrontProducts_list01_view2-d1_c1 .pop-brand .intro .info {
+ padding:5px 15px;
+ line-height:18px;
+ font-size:12px
+}
+.FrontProducts_list01_view2-d1_c1 .pop-brand .intro p.address {
+ margin:10px 0 0 15px;
+ font-size:12px
+}
+.FrontProducts_list01_view2-d1_c1 .pop-brand .intro p.address a {
+ color:#007dcc;
+ text-decoration:none
+}
+.FrontProducts_list01_view2-d1_c1 .pop-brand p.bottom {
+ background:url("../images/pop-bottom.gif")/*tpa=http://www.tgindt.com/images/products/pop-bottom.gif*/ left bottom no-repeat;
+ height:17px;
+ margin:0;
+ font-size:0
+}
+.FrontProducts_list01_view2-d1_c1 .pop-picbig a.close {
+ position:absolute;
+ right:-10px;
+ top:-8px;
+ background:url("../images/ad-close-01.gif")/*tpa=http://www.tgindt.com/images/products/ad-close-01.gif*/ left top no-repeat;
+ display:block;
+ width:18px;
+ height:18px
+}
+.FrontProducts_list01_view2-d1_c1 .pop-picbig a.close:hover {
+ background:url("../images/ad-close-02.gif")/*tpa=http://www.tgindt.com/images/products/ad-close-02.gif*/ left top no-repeat
+}
+.FrontProducts_list01_view2-d1_c1 .mainul {
+ width:100%;
+ overflow:hidden;
+ position:relative
+}
+.FrontProducts_list01_view2-d1_c1 .scrollnavi {
+ width:200px;
+ height:20px
+}
+.FrontProducts_list01_view2-d1_c1 .scrollnavi a {
+ width:8px;
+ height:8px;
+ float:left;
+ margin:3px;
+ background:url("../images/navigator.png")/*tpa=http://www.tgindt.com/images/products/navigator.png*/ 0 0 no-repeat;
+ display:block;
+ font-size:1px
+}
+.FrontProducts_list01_view2-d1_c1 .scrollnavi a:hover {
+ background-position:0 -8px
+}
+.FrontProducts_list01_view2-d1_c1 .scrollnavi a.active {
+ background-position:0 -16px
+}
+.FrontProducts_list01_view2-d1_c1 a.scrollbrowse {
+ background:url("../images/hori_large.png")/*tpa=http://www.tgindt.com/images/products/hori_large.png*/ no-repeat;
+ display:block;
+ clear:both;
+ width:30px;
+ height:30px;
+ float:left;
+ margin:40px 10px;
+ cursor:pointer;
+ font-size:1px
+}
+.FrontProducts_list01_view2-d1_c1 a.scrollright {
+ background-position:0 -30px;
+ clear:right;
+ margin-right:0
+}
+.FrontProducts_list01_view2-d1_c1 a.scrollright:hover {
+ background-position:-30px -30px
+}
+.FrontProducts_list01_view2-d1_c1 a.scrollright:active {
+ background-position:-60px -30px
+}
+.FrontProducts_list01_view2-d1_c1 a.scrollleft {
+ margin-left:0
+}
+.FrontProducts_list01_view2-d1_c1 a.scrollleft:hover {
+ background-position:-30px 0
+}
+.FrontProducts_list01_view2-d1_c1 a.scrollleft:active {
+ background-position:-60px 0
+}
+.FrontProducts_list01_view2-d1_c1 a.scrollup,.FrontProducts_list01_view2-d1_c1 a.scrolldown {
+ background:url("../images/vert_large.png")/*tpa=http://www.tgindt.com/images/products/vert_large.png*/ no-repeat;
+ float:none;
+ margin:10px 50px
+}
+.FrontProducts_list01_view2-d1_c1 a.scrollup:hover {
+ background-position:-30px 0
+}
+.FrontProducts_list01_view2-d1_c1 a.scrollup:active {
+ background-position:-60px 0
+}
+.FrontProducts_list01_view2-d1_c1 a.scrolldown {
+ background-position:0 -30px;
+ clear:both;
+ float:left
+}
+.FrontProducts_list01_view2-d1_c1 a.scrolldown:hover {
+ background-position:-30px -30px
+}
+.FrontProducts_list01_view2-d1_c1 a.scrolldown:active {
+ background-position:-60px -30px
+}
+.FrontProducts_list01_view2-d1_c1 .scrollable {
+ position:relative;
+ overflow:hidden;
+ height:240px;
+ width:575px;
+ float:left
+}
+.FrontProducts_list01_view2-d1_c1 .scrollitems {
+ width:20000px;
+ position:absolute;
+ clear:both
+}
+.FrontProducts_list01_view2-d1_c1 .scrollable_vertical {
+ position:relative;
+ overflow:hidden;
+ width:575px;
+ height:240px
+}
+.FrontProducts_list01_view2-d1_c1 .scrollable_vertical .scrollitems {
+ height:20000px;
+ position:absolute;
+ clear:both
+}
+.FrontProducts_list01_view2-d1_c1 .scrollitems_vertical {
+ height:20000px;
+ position:absolute;
+ clear:both
+}
+.FrontProducts_list01_view2-d1_c1 .content1 {
+ width:180px
+}
+.FrontProducts_list01_view3-d1_c1 {
+ text-align:left;
+ margin:0 auto;
+ width:100%;
+ height:100%;
+ clear:both;
+ overflow:hidden
+}
+.FrontProducts_list01_view3-d1_c1 UL {
+ width:100%
+}
+.FrontProducts_list01_view3-d1_c1 .focustext {
+ font-style:normal;
+ color:#f39800
+}
+.FrontProducts_list01_view3-d1_c1 .type {
+ width:100%;
+ overflow:hidden
+}
+.FrontProducts_list01_view3-d1_c1 .type SPAN.skim {
+ float:left
+}
+.FrontProducts_list01_view3-d1_c1 .type SPAN.sort {
+ float:right
+}
+.FrontProducts_list01_view3-d1_c1 .type SPAN.sort SELECT {
+ float:left
+}
+.FrontProducts_list01_view3-d1_c1 .type SPAN.sort .ph {
+ text-indent:-9999px;
+ margin:5px 4px 0 0;
+ width:19px;
+ background:url("../images/icon-07.gif")/*tpa=http://www.tgindt.com/images/products/icon-07.gif*/ no-repeat 0 0;
+ float:left;
+ height:12px;
+ overflow:hidden
+}
+.FrontProducts_list01_view3-d1_c1 .type SPAN.sort .ph1:hover {
+ background:url("../images/icon-07.gif")/*tpa=http://www.tgindt.com/images/products/icon-07.gif*/ no-repeat 0 -12px
+}
+.FrontProducts_list01_view3-d1_c1 .type SPAN.sort .ph2 {
+ background:url("../images/icon-08.gif")/*tpa=http://www.tgindt.com/images/products/icon-08.gif*/ no-repeat 0 0
+}
+.FrontProducts_list01_view3-d1_c1 .type SPAN.sort .ph2:hover {
+ background:url("../images/icon-08.gif")/*tpa=http://www.tgindt.com/images/products/icon-08.gif*/ no-repeat 0 -12px
+}
+.FrontProducts_list01_view3-d1_c1 .type SPAN.sort .ph3 {
+ width:13px;
+ background:url("../images/icon-09.gif")/*tpa=http://www.tgindt.com/images/products/icon-09.gif*/ no-repeat 0 0;
+ height:13px
+}
+.FrontProducts_list01_view3-d1_c1 .type SPAN.sort .ph3:hover {
+ background:url("../images/icon-09.gif")/*tpa=http://www.tgindt.com/images/products/icon-09.gif*/ no-repeat 0 -14px
+}
+.FrontProducts_list01_view3-d1_c1 .type SPAN.sort .ph4 {
+ width:13px;
+ background:url("../images/icon-10.gif")/*tpa=http://www.tgindt.com/images/products/icon-10.gif*/ no-repeat 0 0;
+ height:13px
+}
+.FrontProducts_list01_view3-d1_c1 .type SPAN.sort .ph4:hover {
+ background:url("../images/icon-10.gif")/*tpa=http://www.tgindt.com/images/products/icon-10.gif*/ no-repeat 0 -14px
+}
+.FrontProducts_list01_view3-d1_c1 .type SPAN.skim A {
+ padding-right:5px
+}
+.FrontProducts_list01_view3-d1_c1 .type SPAN.skim A IMG {
+ border-bottom:0;
+ border-left:0;
+ vertical-align:middle;
+ border-top:0;
+ border-right:0
+}
+.FrontProducts_list01_view3-d1_c1 .content {
+ margin-top:5px;
+ float:left;
+ overflow:hidden
+}
+.FrontProducts_list01_view3-d1_c1 .content .pro-module {
+ width:100%;
+ float:left
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.text {
+ clear:both
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.text EM {
+ border-bottom:#adb9c2 1px solid;
+ border-left:#adb9c2 1px solid;
+ padding-bottom:0;
+ font-style:normal;
+ margin:0;
+ padding-left:3px;
+ padding-right:3px;
+ background:url("../images/size_bg.gif")/*tpa=http://www.tgindt.com/images/products/size_bg.gif*/ repeat-x left top;
+ height:13px;
+ color:#09f;
+ border-top:#adb9c2 1px solid;
+ cursor:pointer;
+ border-right:#adb9c2 1px solid;
+ padding-top:0
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.text SPAN {
+ margin-right:5px
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module .specifications {
+ padding-left:10px;
+ background:#ffc
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.property {
+ vertical-align:middle
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.property LABEL {
+ padding-right:10px
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.property IMG {
+ padding-bottom:4px;
+ padding-left:4px;
+ width:12px;
+ padding-right:4px;
+ height:12px;
+ cursor:pointer;
+ padding-top:4px
+}
+.FrontProducts_list01_view3-d1_c1 .detail {
+ clear:both
+}
+.FrontProducts_list01_view3-d1_c1 .pic-module {
+ position:relative;
+ width:140px;
+ float:left;
+ margin-right:5px
+}
+.FrontProducts_list01_view3-d1_c1 .pic-module .pic A {
+ text-align:center;
+ display:block;
+ float:left
+}
+.FrontProducts_list01_view3-d1_c1 .pic-module .pic A IMG {
+ border-bottom:0;
+ border-left:0;
+ width:120px;
+ height:90px;
+ border-top:0;
+ border-right:0
+}
+.FrontProducts_list01_view3-d1_c1 .pic-module SPAN.lab {
+ z-index:999;
+ position:absolute;
+ top:75px;
+ cursor:pointer;
+ left:10px
+}
+.FrontProducts_list01_view3-d1_c1 .pic-module SPAN.lab IMG {
+ max-width:40px;
+ max-height:40px
+}
+.FrontProducts_list01_view3-d1_c1 .pic-module .compare {
+ width:100%;
+ overflow:hidden;
+ padding-top:10px
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module H1 {
+ margin:0;
+ color:#0068cc;
+ font-size:12px
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI {
+ line-height:23px
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI SPAN {
+ color:#999;
+ font-weight:normal
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.code {
+ color:#f39800;
+ font-weight:bold
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.name STRONG {
+ font-weight:normal
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.weight {
+ color:#f39800
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.skim {
+ color:#f39800
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.marketprice LABEL {
+ text-decoration:line-through
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.memberprice LABEL {
+ color:#e60012;
+ font-size:13px
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.integral {
+ padding-bottom:0;
+ padding-left:0;
+ padding-right:15px;
+ color:#f39800;
+ padding-top:0
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.discount {
+ padding-bottom:0;
+ padding-left:0;
+ padding-right:15px;
+ color:#f39800;
+ padding-top:0
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.save {
+ padding-bottom:0;
+ padding-left:0;
+ padding-right:15px;
+ color:#f39800;
+ padding-top:0
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.size {
+ clear:both
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.size A {
+ border-bottom:#adb9c2 1px solid;
+ border-left:#adb9c2 1px solid;
+ padding-bottom:0;
+ margin:0 5px 0 0;
+ padding-left:3px;
+ padding-right:3px;
+ background:url("../images/size_bg.gif")/*tpa=http://www.tgindt.com/images/products/size_bg.gif*/ repeat-x left top;
+ height:13px;
+ border-top:#adb9c2 1px solid;
+ border-right:#adb9c2 1px solid;
+ padding-top:0
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.color LABEL {
+ padding-right:10px
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.color IMG {
+ padding-left:2px;
+ vertical-align:middle
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.comment2 {
+ padding-right:5px;
+ clear:both;
+ vertical-align:middle
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.comment2 IMG {
+ padding-right:5px;
+ vertical-align:middle
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI .input {
+ border-bottom:#ddddde 1px solid;
+ border-left:#ddddde 1px solid;
+ line-height:15px;
+ width:80px;
+ height:15px;
+ border-top:#ddddde 1px solid;
+ border-right:#ddddde 1px solid
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI .inputgray {
+ color:#000;
+ font-size:12px
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.number SPAN {
+ padding-left:12px
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module UL LI.outstock IMG {
+ vertical-align:middle
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module P.buttonP {
+ clear:both
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module P.buttonP .btna {
+ margin-right:3px
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module P.buttonP SPAN.buy A {
+ color:#fff
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module P.buttonP SPAN.price A {
+ color:#fff
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module P.buttonP SPAN.favor A {
+ color:#727171
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module P.buttonP SPAN.qq A {
+ color:#727171
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module P.buttonP SPAN A:hover {
+ text-decoration:none
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module P.buttonP SPAN.buy {
+ background:url("../images/btn-blue1-02.gif")/*tpa=http://www.tgindt.com/images/products/btn-blue1-02.gif*/ no-repeat left top;
+ float:left
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module P.buttonP SPAN.price {
+ background:url("../images/btn-blue1-02.gif")/*tpa=http://www.tgindt.com/images/products/btn-blue1-02.gif*/ no-repeat left top;
+ float:left
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module P.buttonP SPAN.favor {
+ background:url("../images/btn-gray1-02.gif")/*tpa=http://www.tgindt.com/images/products/btn-gray1-02.gif*/ no-repeat left top;
+ float:left;
+ color:#727171
+}
+.FrontProducts_list01_view3-d1_c1 .pro-module P.buttonP SPAN.qq {
+ width:51px;
+ background:url("../images/btn-gray1-03.gif")/*tpa=http://www.tgindt.com/images/products/btn-gray1-03.gif*/ no-repeat left top;
+ color:#727171
+}
+.FrontProducts_list01_view3-d1_c1 .describe {
+ color:#666464
+}
+.FrontProducts_list01_view3-d1_c1 .describe SPAN {
+ font-weight:bold
+}
+.FrontProducts_list01_view3-d1_c1 .other {
+ margin:10px 0 0
+}
+.FrontProducts_list01_view3-d1_c1 .other P {
+ margin:0;
+ height:20px;
+ color:#666464
+}
+.FrontProducts_list01_view3-d1_c1 .skip-pages {
+ text-align:right;
+ margin-top:10px;
+ width:100%;
+ clear:both;
+ overflow:hidden
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand {
+ z-index:9999;
+ position:absolute;
+ width:229px;
+ top:120px;
+ left:205px
+}
+.FrontProducts_list01_view3-d1_c1 .pop-picbig {
+ z-index:9999;
+ border-bottom:#000 1px solid;
+ position:absolute;
+ border-left:#000 1px solid;
+ padding-bottom:5px;
+ padding-left:5px;
+ width:229px;
+ padding-right:5px;
+ border-top:#000 1px solid;
+ top:160px;
+ border-right:#000 1px solid;
+ padding-top:5px;
+ left:120px
+}
+.FrontProducts_list01_view3-d1_c1 .pop-picbig IMG {
+ width:400px;
+ height:300px
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand P.top {
+ text-align:right;
+ padding-bottom:0;
+ margin:0;
+ padding-left:0;
+ padding-right:15px;
+ background:url("../images/pop-top.gif")/*tpa=http://www.tgindt.com/images/products/pop-top.gif*/ no-repeat left top;
+ height:23px;
+ padding-top:20px
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand P.top A.close {
+ width:24px;
+ display:block;
+ background:url("../images/close.gif")/*tpa=http://www.tgindt.com/images/products/close.gif*/ no-repeat right top;
+ float:right;
+ height:17px
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand P.top A.close:hover {
+ background:url("../images/close-hover.gif")/*tpa=http://www.tgindt.com/images/products/close-hover.gif*/ no-repeat right top
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand .intro {
+ padding-bottom:5px;
+ padding-left:0;
+ padding-right:0;
+ background:url("../images/pop-bg.gif")/*tpa=http://www.tgindt.com/images/products/pop-bg.gif*/ repeat-y left top;
+ padding-top:5px
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand .intro P.pic {
+ text-align:center;
+ margin:0
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand .intro P.pic IMG {
+ padding-bottom:5px;
+ padding-left:5px;
+ width:150px;
+ padding-right:5px;
+ height:115px;
+ padding-top:5px;
+ _margin-bottom:1px
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand .intro H4 {
+ margin:15px 0 0 15px;
+ font-size:12px
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand .intro .info {
+ padding-bottom:5px;
+ line-height:18px;
+ padding-left:15px;
+ padding-right:15px;
+ font-size:12px;
+ padding-top:5px
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand .intro P.address {
+ margin:10px 0 0 15px;
+ font-size:12px
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand .intro P.address A {
+ color:#007dcc;
+ text-decoration:none
+}
+.FrontProducts_list01_view3-d1_c1 .pop-brand P.bottom {
+ margin:0;
+ background:url("../images/pop-bottom.gif")/*tpa=http://www.tgindt.com/images/products/pop-bottom.gif*/ no-repeat left bottom;
+ height:17px;
+ font-size:0
+}
+.FrontProducts_list01_view3-d1_c1 .pop-picbig A.close {
+ position:absolute;
+ width:18px;
+ display:block;
+ background:url("../images/ad-close-01.gif")/*tpa=http://www.tgindt.com/images/products/ad-close-01.gif*/ no-repeat left top;
+ height:18px;
+ top:-8px;
+ right:-10px
+}
+.FrontProducts_list01_view3-d1_c1 .pop-picbig A.close:hover {
+ background:url("../images/ad-close-02.gif")/*tpa=http://www.tgindt.com/images/products/ad-close-02.gif*/ no-repeat left top
+}
+.FrontProducts_list01_view3-d1_c1 .mainul {
+ position:relative;
+ width:100%;
+ overflow:hidden
+}
+.FrontProducts_list01_view3-d1_c1 .scrollnavi {
+ width:200px;
+ height:20px
+}
+.FrontProducts_list01_view3-d1_c1 .scrollnavi A {
+ margin:3px;
+ width:8px;
+ display:block;
+ background:url("../images/navigator.png")/*tpa=http://www.tgindt.com/images/products/navigator.png*/ no-repeat 0 0;
+ float:left;
+ height:8px;
+ font-size:1px
+}
+.FrontProducts_list01_view3-d1_c1 .scrollnavi A:hover {
+ background-position:0 -8px
+}
+.FrontProducts_list01_view3-d1_c1 .scrollnavi A.active {
+ background-position:0 -16px
+}
+.FrontProducts_list01_view3-d1_c1 A.scrollbrowse {
+ margin:40px 10px;
+ width:30px;
+ display:block;
+ background:url("../images/hori_large.png")/*tpa=http://www.tgindt.com/images/products/hori_large.png*/ no-repeat;
+ float:left;
+ height:30px;
+ clear:both;
+ font-size:1px;
+ cursor:pointer
+}
+.FrontProducts_list01_view3-d1_c1 A.scrollright {
+ background-position:0 -30px;
+ clear:right;
+ margin-right:0
+}
+.FrontProducts_list01_view3-d1_c1 A.scrollright:hover {
+ background-position:-30px -30px
+}
+.FrontProducts_list01_view3-d1_c1 A.scrollright:active {
+ background-position:-60px -30px
+}
+.FrontProducts_list01_view3-d1_c1 A.scrollleft {
+ margin-left:0
+}
+.FrontProducts_list01_view3-d1_c1 A.scrollleft:hover {
+ background-position:-30px 0
+}
+.FrontProducts_list01_view3-d1_c1 A.scrollleft:active {
+ background-position:-60px 0
+}
+.FrontProducts_list01_view3-d1_c1 A.scrollup {
+ margin:10px 50px;
+ background:url("../images/vert_large.png")/*tpa=http://www.tgindt.com/images/products/vert_large.png*/ no-repeat;
+ float:none
+}
+.FrontProducts_list01_view3-d1_c1 A.scrolldown {
+ margin:10px 50px;
+ background:url("../images/vert_large.png")/*tpa=http://www.tgindt.com/images/products/vert_large.png*/ no-repeat;
+ float:none
+}
+.FrontProducts_list01_view3-d1_c1 A.scrollup:hover {
+ background-position:-30px 0
+}
+.FrontProducts_list01_view3-d1_c1 A.scrollup:active {
+ background-position:-60px 0
+}
+.FrontProducts_list01_view3-d1_c1 A.scrolldown {
+ background-position:0 -30px;
+ float:left;
+ clear:both
+}
+.FrontProducts_list01_view3-d1_c1 A.scrolldown:hover {
+ background-position:-30px -30px
+}
+.FrontProducts_list01_view3-d1_c1 A.scrolldown:active {
+ background-position:-60px -30px
+}
+.FrontProducts_list01_view3-d1_c1 .scrollable {
+ position:relative;
+ width:575px;
+ float:left;
+ height:240px;
+ overflow:hidden
+}
+.FrontProducts_list01_view3-d1_c1 .scrollitems {
+ position:absolute;
+ width:20000px;
+ clear:both
+}
+.FrontProducts_list01_view3-d1_c1 .scrollable_vertical {
+ position:relative;
+ width:575px;
+ height:240px;
+ overflow:hidden
+}
+.FrontProducts_list01_view3-d1_c1 .scrollable_vertical .scrollitems {
+ position:absolute;
+ height:20000px;
+ clear:both
+}
+.FrontProducts_list01_view3-d1_c1 .scrollitems_vertical {
+ position:absolute;
+ height:20000px;
+ clear:both
+}
+.FrontProducts_list01_view3-d1_c1 .content1 {
+ width:180px
+}
+#elem-FrontProducts_list01-1484114503608 {
+ position:relative
+}
+#elem-FrontProducts_list01-1484114503608 .scrollable {
+ width:1200px;
+ height:430px
+}
+#elem-FrontProducts_list01-1484114503608 .scrollleft {
+ z-index:9999999;
+ position:absolute;
+ width:60px;
+ height:40px;
+ top:320px;
+ left:530px;
+ background:rgba(12,77,161,1) url(../images/sc_left.png)
+}
+#elem-FrontProducts_list01-1484114503608 .scrollright {
+ z-index:9999999;
+ position:absolute;
+ width:60px;
+ height:40px;
+ top:320px;
+ right:530px;
+ background:rgba(12,77,161,1) url(../images/sc_right.png)
+}
+#elem-FrontProducts_list01-1484114503608 .content {
+ padding-bottom:20px;
+ margin:0 10px;
+ padding-left:20px;
+ width:240px;
+ padding-right:20px;
+ background:#0e4984;
+ padding-top:20px;
+ transition:all .5s
+}
+#elem-FrontProducts_list01-1484114503608 .content .pic-module {
+ width:240px;
+ height:153px
+}
+#elem-FrontProducts_list01-1484114503608 .content .pic A {
+ border-bottom:medium none;
+ border-left:medium none;
+ padding-bottom:0;
+ padding-left:0;
+ padding-right:0;
+ background:none transparent scroll repeat 0 0;
+ border-top:medium none;
+ border-right:medium none;
+ padding-top:0
+}
+#elem-FrontProducts_list01-1484114503608 .content .pic IMG {
+ width:240px;
+ height:153px
+}
+#elem-FrontProducts_list01-1484114503608 .content .pro-module A {
+ border-bottom:#fff 1px solid;
+ line-height:42px;
+ width:240px;
+ display:block;
+ font-family:'microsoft yahei',Verdana, Arial;
+ margin-bottom:30px;
+ height:42px;
+ color:#fff;
+ font-size:14px;
+ text-decoration:none
+}
+#elem-FrontProducts_list01-1484114503608 .content:hover {
+ background:#0c4da1
+}
+#elem-FrontProducts_list01-1484276456592 {
+ padding-top:40px
+}
+#elem-FrontProducts_list01-1484276456592 .content {
+ margin:10px;
+ width:280px;
+ transition:all .5s
+}
+#elem-FrontProducts_list01-1484276456592 .content .pic-module {
+ margin:0;
+ width:280px;
+ height:200px
+}
+#elem-FrontProducts_list01-1484276456592 .content .pic-module A {
+ border-bottom:medium none;
+ border-left:medium none;
+ padding-bottom:0;
+ padding-left:0;
+ padding-right:0;
+ background:none transparent scroll repeat 0 0;
+ border-top:medium none;
+ border-right:medium none;
+ padding-top:0
+}
+#elem-FrontProducts_list01-1484276456592 .content .pic-module IMG {
+ width:280px;
+ height:200px
+}
+#elem-FrontProducts_list01-1484276456592 .content .pro-module H1 {
+ text-align:center
+}
+#elem-FrontProducts_list01-1484276456592 .content .pro-module H1 A {
+ line-height:60px;
+ width:280px;
+ display:block;
+ font-family:'microsoft yahei',Verdana, Arial;
+ background:#fff;
+ height:60px;
+ color:#666;
+ font-size:14px;
+ font-weight:bold;
+ text-decoration:none
+}
+#elem-FrontProducts_list01-1484276456592 .content:hover {
+ box-shadow:0 0 20px #ccc
+}
+.FrontNews_list01-d1_c1_01 {
+ width:100%;
+ margin:0 auto;
+ clear:both;
+ text-align:left
+}
+.FrontNews_list01-d1_c1_01 .content {
+ float:left;
+ overflow:hidden
+}
+.FrontNews_list01-d1_c1_01 .more {
+ width:100%;
+ overflow:hidden;
+ text-align:right
+}
+.FrontNews_list01-d1_c1_01 .newstitle {
+ width:100%;
+ overflow:hidden
+}
+.FrontNews_list01-d1_c1_01 .newstitle ul {
+ width:100%;
+ clear:both
+}
+.FrontNews_list01-d1_c1_01 .newstitle li {
+ float:left;
+ padding-right:15px;
+ text-align:left
+}
+.FrontNews_list01-d1_c1_01 .newstitle li h3 {
+ display:inline;
+ color:#000;
+ font-size:12px;
+ font-weight:bold;
+ padding-left:12px;
+ background:url("../images/icon-09-1.gif")/*tpa=http://www.tgindt.com/images/news/icon-09.gif*/ 0 0 no-repeat
+}
+.FrontNews_list01-d1_c1_01 .newstitle li span {
+ color:#999
+}
+.FrontNews_list01-d1_c1_01 .newstitle li em {
+ font-style:normal
+}
+.FrontNews_list01-d1_c1_01 .newstitle .fontnews a {
+ color:#06c
+}
+.FrontNews_list01-d1_c1_01 .newstitle .author {
+ padding-left:13px
+}
+.FrontNews_list01-d1_c1_01 .newstitle .comment {
+ padding-left:20px;
+ background:url("../images/icon-04.gif")/*tpa=http://www.tgindt.com/images/news/icon-04.gif*/ 0 0 no-repeat;
+ background:url("../images/icon-04.gif")/*tpa=http://www.tgindt.com/images/news/icon-04.gif*/ 0 4px no-repeat9
+}
+.FrontNews_list01-d1_c1_01 .newstitle .linkarea {
+ float:left;
+ _padding-top:3px
+}
+.FrontNews_list01-d1_c1_01 .newslist ul {
+ width:100%;
+ overflow:hidden
+}
+.FrontNews_list01-d1_c1_01 li.clearBoth {
+ line-height:0;
+ font-size:0
+}
+.FrontNews_list01-d1_c1_01 .newslist .pic {
+ width:140px;
+ float:left
+}
+.FrontNews_list01-d1_c1_01 .newslist .pic a {
+ float:left
+}
+.FrontNews_list01-d1_c1_01 .newslist .pic img {
+ width:120px;
+ height:90px
+}
+.FrontNews_list01-d1_c1_01 .newslist .summary {
+ float:none
+}
+.FrontNews_list01-d1_c1_01 .newslist .summary h3 {
+ font-size:12px;
+ font-weight:bold;
+ line-height:22px
+}
+.FrontNews_list01-d1_c1_01 .newslist .summary p {
+ line-height:20px
+}
+.FrontNews_list01-d1_c1_01 .newslist .summary a {
+ margin-left:5px
+}
+.FrontNews_list01-d1_c1_01 .showLine {
+ float:left;
+ height:10px;
+ width:100%;
+ border:0;
+ background:url("../images/line-01.gif")/*tpa=http://www.tgindt.com/images/news/line-01.gif*/ 0 50% repeat-x
+}
+.FrontNews_list01-d1_c1_01 .comstyle {
+ width:100%;
+ overflow:hidden
+}
+.FrontNews_list01-d1_c1_01 .clearBoth {
+ clear:both;
+ height:1px;
+ line-height:1px
+}
+.FrontNews_list01-d1_c1_01 .scrollnavi {
+ width:200px;
+ height:20px
+}
+.FrontNews_list01-d1_c1_01 .scrollnavi a {
+ width:8px;
+ height:8px;
+ float:left;
+ margin:3px;
+ background:url("../images/navigator-1.png")/*tpa=http://www.tgindt.com/images/news/navigator.png*/ 0 0 no-repeat;
+ display:block;
+ font-size:1px
+}
+.FrontNews_list01-d1_c1_01 .scrollnavi a:hover {
+ background-position:0 -8px
+}
+.FrontNews_list01-d1_c1_01 .scrollnavi a.active {
+ background-position:0 -16px
+}
+.FrontNews_list01-d1_c1_01 a.scrollbrowse {
+ background:url("../images/hori_large-1.png")/*tpa=http://www.tgindt.com/images/news/hori_large.png*/ no-repeat;
+ display:block;
+ width:30px;
+ height:30px;
+ margin:40px 10px;
+ cursor:pointer;
+ font-size:1px
+}
+.FrontNews_list01-d1_c1_01 a.scrollright {
+ background-position:0 -30px;
+ margin-right:0;
+ float:left
+}
+.FrontNews_list01-d1_c1_01 a.scrollright:hover {
+ background-position:-30px -30px
+}
+.FrontNews_list01-d1_c1_01 a.scrollright:active {
+ background-position:-60px -30px
+}
+.FrontNews_list01-d1_c1_01 a.scrollleft {
+ margin-left:0;
+ float:left
+}
+.FrontNews_list01-d1_c1_01 a.scrollleft:hover {
+ background-position:-30px 0
+}
+.FrontNews_list01-d1_c1_01 a.scrollleft:active {
+ background-position:-60px 0
+}
+.FrontNews_list01-d1_c1_01 a.scrollup,.FrontNews_list01-d1_c1_01 a.scrolldown {
+ background:url("../images/vert_large-1.png")/*tpa=http://www.tgindt.com/images/news/vert_large.png*/ no-repeat;
+ float:none;
+ margin:10px 50px
+}
+.FrontNews_list01-d1_c1_01 a.scrollup:hover {
+ background-position:-30px 0
+}
+.FrontNews_list01-d1_c1_01 a.scrollup:active {
+ background-position:-60px 0
+}
+.FrontNews_list01-d1_c1_01 a.scrolldown {
+ background-position:0 -30px;
+ clear:both;
+ float:left
+}
+.FrontNews_list01-d1_c1_01 a.scrolldown:hover {
+ background-position:-30px -30px
+}
+.FrontNews_list01-d1_c1_01 a.scrolldown:active {
+ background-position:-60px -30px
+}
+.FrontNews_list01-d1_c1_01 .scrollable {
+ position:relative;
+ overflow:hidden;
+ float:left;
+ height:120px;
+ width:575px
+}
+.FrontNews_list01-d1_c1_01 .scrollitems {
+ width:20000px;
+ position:absolute;
+ clear:both
+}
+.FrontNews_list01-d1_c1_01 .scrollable_vertical {
+ position:relative;
+ overflow:hidden;
+ width:575px;
+ height:120px
+}
+.FrontNews_list01-d1_c1_01 .scrollitems_vertical {
+ height:2000px;
+ position:absolute;
+ clear:both
+}
+.FrontNews_list01-d1_c1_01 .scrollable_vertical .scrollitems {
+ height:20000px;
+ position:absolute;
+ clear:both
+}
+.FrontNews_list01-d1_c1_01 .content1 {
+ width:575px;
+ float:left
+}
+.FrontNews_list01-d1_c1_01 .scrollliner {
+ position:static
+}
+.FrontNews_list01-d1_c1_01 .scrollliner .scrollitems {
+ position:static
+}
+#elem-FrontNews_list01-1484115052578 .content .title h3 {
+ padding-left:42px;
+ background: url(../images/new_tit.png) no-repeat top left;
+ height:32px;
+ display:block
+}
+#elem-FrontNews_list01-1484115052578 .content .title a {
+ font-family:'microsoft yahei',Verdana, Arial;
+ font-size:16px;
+ line-height:32px;
+ height:32px;
+ font-weight:normal;
+ color:#666;
+ text-decoration:none
+}
+#elem-FrontNews_list01-1484115052578 .content .linkarea {
+ display:none
+}
+#elem-FrontNews_list01-1484115052578 .content .date {
+ clear:both;
+ font-size:12px;
+ font-family:'microsoft yahei',Verdana, Arial;
+ color:#c9c9c9;
+ margin-left:42px;
+ line-height:36px
+}
+#elem-FrontNews_list01-1484115052578 .content .date span {
+ display:none
+}
+#elem-FrontNews_list01-1484115052578 .content .newslist h3 {
+ display:none
+}
+#elem-FrontNews_list01-1484115052578 .content .newslist p {
+ font-size:12px;
+ line-height:20px;
+ color:#919191;
+ font-family:'microsoft yahei',Verdana, Arial;
+ margin-left:42px
+}
+#elem-FrontNews_list01-1484115052578 .content .newslist {
+ width:580px
+}
+#elem-FrontNews_list01-1484115052578 .content {
+ width:580px;
+ margin:0 10px;
+ margin-bottom:20px;
+ word-break:break-all
+}
+.FrontNews_list01-d3_c2 {
+ width:100%;
+ margin:0 auto;
+ clear:both;
+ text-align:left;
+ overflow:hidden
+}
+.FrontNews_list01-d3_c2 .content {
+ float:left;
+ overflow:hidden
+}
+.FrontNews_list01-d3_c2 .more {
+ width:100%;
+ text-align:right;
+ overflow:hidden
+}
+.FrontNews_list01-d3_c2 .comstyle {
+ overflow1:hidden
+}
+.FrontNews_list01-d3_c2 .newslist-01 {
+ width:140px;
+ float:left
+}
+.FrontNews_list01-d3_c2 .newslist-02 {
+ *display:inline-block;
+ _display:inline;
+ _zoom:1
+}
+.FrontNews_list01-d3_c2 .newstitle {
+ width:100%;
+ overflow:hidden
+}
+.FrontNews_list01-d3_c2 .newstitle li h3 {
+ display:inline-block;
+ color:#000;
+ font-size:12px;
+ font-weight:bold;
+ padding-left:12px;
+ background:url("../images/icon-09-1.gif")/*tpa=http://www.tgindt.com/images/news/icon-09.gif*/ 0 4px no-repeat;
+ background:url("../images/icon-09-1.gif")/*tpa=http://www.tgindt.com/images/news/icon-09.gif*/ 0 2px no-repeat9
+}
+.FrontNews_list01-d3_c2 .newstitle li span {
+ color:#999
+}
+.FrontNews_list01-d3_c2 .newstitle li em {
+ font-style:normal
+}
+.FrontNews_list01-d3_c2 .newstitle .fontnews a {
+ color:#06c
+}
+.FrontNews_list01-d3_c2 .newstitle .comment {
+ padding-left:20px;
+ background:url("../images/icon-04.gif")/*tpa=http://www.tgindt.com/images/news/icon-04.gif*/ 0 0 no-repeat;
+ background:url("../images/icon-04.gif")/*tpa=http://www.tgindt.com/images/news/icon-04.gif*/ 0 4px no-repeat9
+}
+.FrontNews_list01-d3_c2 .content .pic {
+ float:left;
+ width:140px
+}
+.FrontNews_list01-d3_c2 .content .pic a {
+ float:left
+}
+.FrontNews_list01-d3_c2 .content .pic img {
+ width:120px;
+ height:90px
+}
+.FrontNews_list01-d3_c2 .newslist .summary h3 {
+ font-size:12px;
+ font-weight:bold;
+ line-height:22px
+}
+.FrontNews_list01-d3_c2 .newslist .summary p {
+ line-height:20px
+}
+.FrontNews_list01-d3_c2 .newslist .summary a {
+ margin-left:5px
+}
+.FrontNews_list01-d3_c2 .showLine {
+ float:left;
+ height:10px;
+ width:100%;
+ border:0;
+ background:url("../images/line-01.gif")/*tpa=http://www.tgindt.com/images/news/line-01.gif*/ 0 50% repeat-x
+}
+.FrontNews_list01-d3_c2 li.clearBoth {
+ font-size:0;
+ line-height:0;
+ height:0;
+ border:0;
+ *display:inline
+}
+.FrontNews_list01-d3_c2 .scrollnavi {
+ width:200px;
+ height:20px
+}
+.FrontNews_list01-d3_c2 .scrollnavi a {
+ width:8px;
+ height:8px;
+ float:left;
+ margin:3px;
+ background:url("../images/navigator-1.png")/*tpa=http://www.tgindt.com/images/news/navigator.png*/ 0 0 no-repeat;
+ display:block;
+ font-size:1px
+}
+.FrontNews_list01-d3_c2 .scrollnavi a:hover {
+ background-position:0 -8px
+}
+.FrontNews_list01-d3_c2 .scrollnavi a.active {
+ background-position:0 -16px
+}
+.FrontNews_list01-d3_c2 a.scrollbrowse {
+ background:url("../images/hori_large-1.png")/*tpa=http://www.tgindt.com/images/news/hori_large.png*/ no-repeat;
+ display:block;
+ width:30px;
+ height:30px;
+ margin:40px 10px;
+ cursor:pointer;
+ font-size:1px
+}
+.FrontNews_list01-d3_c2 a.scrollright {
+ background-position:0 -30px;
+ margin-right:0;
+ float:left
+}
+.FrontNews_list01-d3_c2 a.scrollright:hover {
+ background-position:-30px -30px
+}
+.FrontNews_list01-d3_c2 a.scrollright:active {
+ background-position:-60px -30px
+}
+.FrontNews_list01-d3_c2 a.scrollleft {
+ margin-left:0;
+ float:left
+}
+.FrontNews_list01-d3_c2 a.scrollleft:hover {
+ background-position:-30px 0
+}
+.FrontNews_list01-d3_c2 a.scrollleft:active {
+ background-position:-60px 0
+}
+.FrontNews_list01-d3_c2 a.scrollup,.FrontNews_list01-d3_c2 a.scrolldown {
+ background:url("../images/vert_large-1.png")/*tpa=http://www.tgindt.com/images/news/vert_large.png*/ no-repeat;
+ float:none;
+ margin:10px 50px
+}
+.FrontNews_list01-d3_c2 a.scrollup:hover {
+ background-position:-30px 0
+}
+.FrontNews_list01-d3_c2 a.scrollup:active {
+ background-position:-60px 0
+}
+.FrontNews_list01-d3_c2 a.scrolldown {
+ background-position:0 -30px;
+ clear:both;
+ float:left
+}
+.FrontNews_list01-d3_c2 a.scrolldown:hover {
+ background-position:-30px -30px
+}
+.FrontNews_list01-d3_c2 a.scrolldown:active {
+ background-position:-60px -30px
+}
+.FrontNews_list01-d3_c2 .scrollable {
+ position:relative;
+ overflow:hidden;
+ float:left;
+ height:120px;
+ width:100%
+}
+.FrontNews_list01-d3_c2 .scrollitems {
+ width:20000px;
+ position:absolute;
+ clear:both
+}
+.FrontNews_list01-d3_c2 .scrollable_vertical {
+ position:relative;
+ overflow:hidden;
+ width:100%;
+ height:120px
+}
+.FrontNews_list01-d3_c2 .scrollitems_vertical {
+ height:20000px;
+ position:absolute;
+ clear:both
+}
+.FrontNews_list01-d3_c2 .scrollable_vertical .scrollitems {
+ height:20000px;
+ position:absolute;
+ clear:both
+}
+.FrontNews_list01-d3_c2 .content1 {
+ width:254px;
+ float:left
+}
+.FrontNews_list01-d3_c2 .scrollliner {
+ position:static
+}
+.FrontNews_list01-d3_c2 .scrollliner .scrollitems {
+ position:static
+}
+#elem-FrontNews_list01-001 .FrontNews_list01-d3_c2 ul.newslist-02 li.title {
+ line-height:24px
+}
+#elem-FrontNews_list01-001 .FrontNews_list01-d3_c2 ul.newslist-02 h3 {
+ font-weight:normal
+}
+#elem-FrontNews_list01-1484116238089 .newslist-01 {
+ width:580px;
+ margin:0 10px
+}
+#elem-FrontNews_list01-1484116238089 .newslist-01 .content {
+ width:580px;
+ position:relative
+}
+#elem-FrontNews_list01-1484116238089 .newslist-01 .content .pic {
+ width:580px
+}
+#elem-FrontNews_list01-1484116238089 .newslist-01 .content .pic a {
+ padding:0;
+ border:0;
+ background:0
+}
+#elem-FrontNews_list01-1484116238089 .newslist-01 .content .pic img {
+ width:580px;
+ height:270px
+}
+#elem-FrontNews_list01-1484116238089 .newslist-01 .content .newslist {
+ clear:both;
+ position:absolute;
+ left:20;
+ top:270px;
+ width:540px;
+ transition:all .5s;
+ z-index:999
+}
+#elem-FrontNews_list01-1484116238089 .newslist-01 .content .newstitle h3 {
+ padding:0;
+ background:0
+}
+#elem-FrontNews_list01-1484116238089 .newslist-01 .content .newstitle a {
+ font-size:18px;
+ font-family:'microsoft yahei',Verdana, Arial;
+ line-height:100px;
+ height:100px;
+ font-weight:bold;
+ text-decoration:none;
+ padding-bottom:170px;
+ background:rgba(12,77,161,0.6);
+ width:540px;
+ padding-left:20px;
+ padding-right:20px;
+ display:block;
+ color:#fff
+}
+#elem-FrontNews_list01-1484116238089 .newslist-01 .content .newslist p {
+ word-break:break-all;
+ margin-left:20px;
+ font-family:'microsoft yahei',Verdana, Arial;
+ font-size:14px;
+ line-height:20px;
+ color:#fff
+}
+#elem-FrontNews_list01-1484116238089 .newslist-01 .content .newslist h3 {
+ width:60px;
+ height:2px;
+ color:#fff;
+ font-size:0;
+ background:#fff;
+ line-height:2px;
+ margin-left:20px;
+ margin-bottom:16px
+}
+#elem-FrontNews_list01-1484116238089 .newslist-01 .content .newstitle {
+ position:absolute;
+ left:0;
+ top:170px;
+ transition:all .5s;
+ z-index:99
+}
+#elem-FrontNews_list01-1484116238089 .newslist-01 .content:hover .newstitle {
+ top:0
+}
+#elem-FrontNews_list01-1484116238089 .newslist-01 .content:hover .newslist {
+ top:100px
+}
+#elem-FrontNews_list01-1484116238089 .newslist-02 {
+ position:relative
+}
+#elem-FrontNews_list01-1484116238089 .newslist-02 .content {
+ width:280px;
+ margin:0 10px;
+ position:relative;
+ height:270px;
+ margin-bottom:20px
+}
+#elem-FrontNews_list01-1484116238089 .newslist-02 .content .pic {
+ width:280px
+}
+#elem-FrontNews_list01-1484116238089 .newslist-02 .content .pic a {
+ padding:0;
+ background:0;
+ border:0
+}
+#elem-FrontNews_list01-1484116238089 .newslist-02 .content .pic img {
+ width:280px;
+ height:200px
+}
+#elem-FrontNews_list01-1484116238089 .newslist-02 .content .newslist {
+ clear:both;
+ position:absolute;
+ left:20;
+ top:290px;
+ width:240px;
+ transition:all .5s;
+ z-index:999
+}
+#elem-FrontNews_list01-1484116238089 .newslist-02 .content .newslist h3 {
+ display:none
+}
+#elem-FrontNews_list01-1484116238089 .newslist-02 .content .newstitle a {
+ font-size:18px;
+ font-family:'microsoft yahei',Verdana, Arial;
+ line-height:28px;
+ height:28px;
+ font-weight:bold;
+ text-decoration:none;
+ padding-bottom:234px;
+ background:#e5f1ff;
+ width:240px;
+ padding-left:20px;
+ padding-right:20px;
+ display:block;
+ color:#0c4da1;
+ padding-top:8px;
+ transition:all .3s
+}
+#elem-FrontNews_list01-1484116238089 .newslist-02 .content .newslist p {
+ word-break:break-all;
+ margin-left:20px;
+ font-family:'microsoft yahei',Verdana, Arial;
+ font-size:14px;
+ line-height:23px;
+ color:#fff
+}
+#elem-FrontNews_list01-1484116238089 .newslist-02 .content .newstitle {
+ position:absolute;
+ left:20;
+ top:200px;
+ transition:all .5s;
+ z-index:99
+}
+#elem-FrontNews_list01-1484116238089 .newslist-02 .content:hover .newstitle {
+ top:0
+}
+#elem-FrontNews_list01-1484116238089 .newslist-02 .content:hover .newslist {
+ top:100px
+}
+#elem-FrontNews_list01-1484116238089 .newslist-02 .content .newstitle h3 {
+ padding:0;
+ background:0
+}
+#elem-FrontNews_list01-1484116238089 .newslist-02 .content:hover .newstitle a {
+ background:#2e4198;
+ color:#fff
+}
+#elem-FrontNews_list01-1484116238089 .newslist-02 .content:nth-child(7) {
+ position:absolute;
+ left:600px;
+ top:290px
+}
+#elem-FrontNews_list01-1484116238089 .newslist-02 .content:nth-child(8) {
+ position:absolute;
+ left:900px;
+ top:290px
+}
+#elem-FrontNews_list01-1484116238089 {
+ margin-bottom:80px
+}

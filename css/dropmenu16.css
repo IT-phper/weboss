@@ -1,0 +1,55 @@
+﻿#dropmenu{	
+margin: 0;
+padding: 0;
+width:100%;
+height:31px;
+}
+
+#dropmenu li{	
+float: left;
+list-style: none;
+font: 14px/31px 'microsoft yahei',Verdana, Arial;
+
+}
+
+#dropmenu li a{	
+display: block;
+padding: 0px;
+text-align:center;
+text-decoration: none;
+width: 99px;
+color: #ebebea;
+white-space: nowrap;
+font: 14px/31px 'microsoft yahei',Verdana, Arial;
+}
+
+#dropmenu li a:hover{	
+color: #333;
+background: url(../images/menubgnow.png) no-repeat;
+}
+		
+#dropmenu li ul{
+margin: 1px 0 0 0;
+padding: 0;
+width:99px;
+position: absolute;
+visibility: hidden;
+}
+		
+#dropmenu li ul li{
+float: none;
+display: inline;
+}
+			
+#dropmenu li ul li a{	
+width:99px;
+text-align:center;
+color: #333;
+font: 14px/33px 'microsoft yahei',Verdana, Arial;
+background: url(../images/menu.png) no-repeat;
+}
+			
+#dropmenu li ul li a:hover{	
+color: #333;
+background: url(../images/menubgnow.png) no-repeat;
+}
